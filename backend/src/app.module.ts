@@ -10,7 +10,7 @@ import { FilesModule } from './files/files.module';
     ConfigModule.forRoot({
       isGlobal: true,
     }),
-    MongooseModule.forRoot(process.env.MONGODB_URI || 'mongodb://localhost:27017/econoverse'),
+    MongooseModule.forRoot(process.env.MONGO_URI || 'mongodb://localhost:27017/econoverse'),
     AuthModule,
     UsersModule,
     FilesModule,

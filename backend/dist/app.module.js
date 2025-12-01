@@ -22,7 +22,7 @@ exports.AppModule = AppModule = __decorate([
             config_1.ConfigModule.forRoot({
                 isGlobal: true,
             }),
-            mongoose_1.MongooseModule.forRoot(process.env.MONGODB_URI || 'mongodb://localhost:27017/econoverse'),
+            mongoose_1.MongooseModule.forRoot(process.env.MONGO_URI || 'mongodb://localhost:27017/econoverse'),
             auth_module_1.AuthModule,
             users_module_1.UsersModule,
             files_module_1.FilesModule,
