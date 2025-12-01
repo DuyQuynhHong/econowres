@@ -1,0 +1,570 @@
+.gameplay-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #E3F2FD 0%, #BBDEFB 100%);
+}
+
+/* Header */
+.gameplay-header {
+  background: linear-gradient(90deg, #00A8E8 0%, #0099DD 100%);
+  padding: 1rem 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.gameplay-header-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.user-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid white;
+}
+
+.user-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.user-name {
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.user-exp-bar {
+  position: relative;
+  width: 200px;
+  height: 24px;
+  background: linear-gradient(90deg, #1976D2 0%, #2196F3 100%);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.exp-fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: linear-gradient(90deg, #FF6B35 0%, #F7931E 100%);
+  transition: width 0.3s;
+}
+
+.exp-text {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  line-height: 24px;
+  color: white;
+  font-weight: bold;
+  font-size: 0.85rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.gameplay-nav {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  opacity: 0.8;
+}
+
+.gameplay-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.icon-btn {
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid white;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+/* Content */
+.gameplay-content {
+  flex: 1;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.career-header-section {
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.back-btn {
+  padding: 0.8rem 1.5rem;
+  background: #4A90E2;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+  box-shadow: 0 4px 10px rgba(74, 144, 226, 0.3);
+}
+
+.back-btn:hover {
+  background: #357ABD;
+  transform: translateY(-2px);
+}
+
+.career-name {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Jobs Section */
+.jobs-section {
+  margin-bottom: 2rem;
+}
+
+.section-subtitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.jobs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.job-card {
+  background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%);
+  padding: 1.5rem;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s;
+}
+
+.job-card:hover {
+  transform: translateY(-5px);
+}
+
+.job-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.job-name {
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+/* Mission Preview */
+.mission-preview {
+  margin-bottom: 2rem;
+}
+
+.preview-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.preview-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.preview-text {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.start-mission-btn {
+  padding: 1.2rem 4rem;
+  background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+  transition: all 0.3s;
+}
+
+.start-mission-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 25px rgba(255, 107, 53, 0.5);
+}
+
+/* Mission Details */
+.mission-details {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.mission-progress {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 15px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.progress-bar {
+  position: relative;
+  height: 30px;
+  background: #E0E0E0;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #FF6B35 0%, #F7931E 100%);
+  transition: width 0.5s;
+}
+
+.mission-label {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Question Section */
+.question-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 20px;
+  margin-bottom: 2rem;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.question-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.option-btn {
+  padding: 1.2rem 1.5rem;
+  background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%);
+  border: 3px solid #4A90E2;
+  border-radius: 15px;
+  font-size: 1rem;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-align: left;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.option-label {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #4A90E2;
+  min-width: 30px;
+}
+
+.option-text {
+  flex: 1;
+}
+
+.option-btn:hover:not(:disabled) {
+  background: linear-gradient(135deg, #BBDEFB 0%, #90CAF9 100%);
+  transform: translateX(5px);
+}
+
+.option-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.option-btn.correct {
+  background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+  border-color: #4CAF50;
+  box-shadow: 0 0 20px rgba(76, 175, 80, 0.5);
+}
+
+.option-btn.correct .option-label {
+  color: #2E7D32;
+}
+
+.option-btn.incorrect {
+  background: linear-gradient(135deg, #FFCDD2 0%, #EF9A9A 100%);
+  border-color: #F44336;
+  box-shadow: 0 0 20px rgba(244, 67, 54, 0.5);
+}
+
+.option-btn.incorrect .option-label {
+  color: #C62828;
+}
+
+.option-btn.correct-highlight {
+  background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+  border-color: #4CAF50;
+}
+
+.option-btn.correct-highlight .option-label {
+  color: #2E7D32;
+}
+
+/* Result Feedback */
+.result-feedback {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: 15px;
+  text-align: center;
+  animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.correct-feedback {
+  background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+  border: 3px solid #4CAF50;
+}
+
+.incorrect-feedback {
+  background: linear-gradient(135deg, #FFCDD2 0%, #EF9A9A 100%);
+  border: 3px solid #F44336;
+}
+
+.result-icon {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.correct-feedback .result-icon {
+  color: #2E7D32;
+}
+
+.incorrect-feedback .result-icon {
+  color: #C62828;
+}
+
+.result-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.correct-feedback .result-text {
+  color: #2E7D32;
+}
+
+.incorrect-feedback .result-text {
+  color: #C62828;
+}
+
+.result-explanation {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Guidance Section */
+.guidance-section {
+  background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+  padding: 2rem;
+  border-radius: 20px;
+  border: 4px solid #4CAF50;
+  box-shadow: 0 8px 25px rgba(76, 175, 80, 0.3);
+}
+
+.guidance-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.guidance-indicator {
+  width: 40px;
+  height: 40px;
+  background: #4CAF50;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.guidance-header h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #2E7D32;
+}
+
+.guidance-content {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #1B5E20;
+  margin-bottom: 1.5rem;
+}
+
+.continue-btn {
+  padding: 1rem 3rem;
+  background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0 6px 15px rgba(255, 107, 53, 0.4);
+  transition: all 0.3s;
+}
+
+.continue-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(255, 107, 53, 0.5);
+}
+
+/* Footer */
+.gameplay-footer {
+  background: linear-gradient(90deg, #00A8E8 0%, #0099DD 100%);
+  color: white;
+  padding: 2.5rem 2rem;
+  margin-top: auto;
+}
+
+.gameplay-footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.footer-section h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.footer-section p {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+  font-size: 0.9rem;
+}
+
+.footer-logo-text {
+  background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+  padding: 0.5rem 1.5rem;
+  border-radius: 20px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+}
+
+.footer-description {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .gameplay-header-container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .career-header-section {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .career-name {
+    font-size: 1.8rem;
+  }
+  
+  .jobs-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+}
