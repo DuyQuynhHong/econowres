@@ -56,7 +56,7 @@ const Community = ({ onNavigate }) => {
             <div className="section-image">
               <div className="facebook-illustration">
                 <div className="illustration-content">
-                  <div className="econowres-logo">Econowres</div>
+                  <div className="econoverse-logo">Econoverse</div>
                   <div className="people-illustration">
                     <div className="person person-1">👨‍💼</div>
                     <div className="person person-2">👩‍💼</div>
@@ -124,7 +124,7 @@ const Community = ({ onNavigate }) => {
         <div className="community-footer-container">
           <div className="footer-section">
             <div className="footer-logo">
-              <span className="footer-logo-text">Econowres</span>
+              <span className="footer-logo-text">Econoverse</span>
             </div>
             <p className="footer-description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
@@ -204,7 +204,7 @@ const Community = ({ onNavigate }) => {
                   onChange={handleInputChange}
                   required
                   rows="6"
-                  placeholder="Chia sẻ ý kiến, góp ý của bạn về Econowres..."
+                  placeholder="Chia sẻ ý kiến, góp ý của bạn về Econoverse..."
                 />
               </div>
 

@@ -1,11 +1,11 @@
-# Econowres - Full Stack Application
+# Econoverse - Full Stack Application
 
 Hệ thống hướng nghiệp với Backend (NestJS + MongoDB) và Frontend (React + Vite)
 
 ## Cấu trúc Project
 
 ```
-econowres/
+econoverse/
 ├── backend/          # NestJS API với MongoDB
 │   ├── src/
 │   │   ├── auth/     # Authentication (simple login/register)
@@ -44,7 +44,7 @@ mongod
 
 Cập nhật file `.env` trong thư mục `backend` (nếu cần):
 ```env
-MONGODB_URI=mongodb://localhost:27017/econowres
+MONGODB_URI=mongodb://localhost:27017/econoverse
 PORT=3000
 ```
 
@@ -148,7 +148,7 @@ Frontend sẽ chạy tại: **http://localhost:5173**
 ## Cấu trúc Project
 
 ```
-econowres/
+econoverse/
 ├── backend/          # NestJS API
 │   ├── src/
 │   │   ├── auth/     # Authentication module
@@ -178,7 +178,7 @@ npm install
 ### 2. Database Setup
 Cài đặt PostgreSQL và tạo database:
 ```sql
-CREATE DATABASE econowres;
+CREATE DATABASE econoverse;
 ```
 
 Cập nhật file `.env` trong thư mục `backend`:
@@ -187,7 +187,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_USERNAME=postgres
 DB_PASSWORD=your_password
-DB_NAME=econowres
+DB_NAME=econoverse
 JWT_SECRET=your-secret-key
 ```
 

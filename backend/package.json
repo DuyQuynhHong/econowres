@@ -1,6 +1,6 @@
 {
-  "name": "econowres-backend",
-  "version": "1.0.0",
+  "name": "econoverse-backend",
+  "version": "0.0.1",
   "description": "Backend API với MongoDB",
   "scripts": {
     "start": "nest start",

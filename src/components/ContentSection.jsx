@@ -6,7 +6,7 @@ const ContentSection = ({ onNavigate }) => {
     <section className="content-section">
       <div className="content-container">
         <h2 className="content-title">
-          <span className="highlight">Econowres</span> mang đến cho bạn:
+          <span className="highlight">Econoverse</span> mang đến cho bạn:
         </h2>
         
         <div className="content-grid">

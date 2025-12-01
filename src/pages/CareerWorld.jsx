@@ -56,8 +56,8 @@ const CareerWorld = ({ onNavigate }) => {
       {/* Main Content - Map với các đảo */}
       <div className="career-map-section">
         <h1 className="career-title">THẾ GIỚI NGHỀ</h1>
-        <p className="career-intro">
-          Econowres mang đến hành trình khám phá nghề nghiệp qua 7 "thế giới" gồm: <strong>Thương mại quốc tế, Marketing, Tài chính - Ngân hàng - Đầu tư, Chuỗi cung ứng & Logistics, Phân tích dữ liệu, Ngoại giao & Hợp tác quốc tế,</strong> và <strong>Khởi nghiệp – Quản trị sáng tạo.</strong> Người dùng nhập vai vào các nghề thực tế và thực hiện nhiệm vụ mô phỏng, từ đó hiểu đặc thù từng lĩnh vực và xác định hướng đi phù hợp.
+        <p className="world-intro">
+          Econoverse mang đến hành trình khám phá nghề nghiệp qua 7 "thế giới" gồm: <strong>Thương mại quốc tế, Marketing, Tài chính - Ngân hàng - Đầu tư, Chuỗi cung ứng & Logistics, Phân tích dữ liệu, Ngoại giao & Hợp tác quốc tế,</strong> và <strong>Khởi nghiệp – Quản trị sáng tạo.</strong> Người dùng nhập vai vào các nghề thực tế và thực hiện nhiệm vụ mô phỏng, từ đó hiểu đặc thù từng lĩnh vực và xác định hướng đi phù hợp.
         </p>
         
         <div className="career-map">
@@ -91,7 +91,7 @@ const CareerWorld = ({ onNavigate }) => {
         <div className="career-footer-container">
           <div className="footer-section">
             <div className="footer-logo">
-              <span className="footer-logo-text">Econowres</span>
+              <span className="footer-logo-text">Econoverse</span>
             </div>
             <p className="footer-description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, 

@@ -8,7 +8,7 @@ const VideoIntro = ({ onNavigate }) => {
       <header className="video-header">
         <div className="video-header-container">
           <div className="logo" onClick={() => onNavigate('home')} style={{ cursor: 'pointer' }}>
-            <span className="logo-text">Econowres</span>
+            <span className="logo-text">Econoverse</span>
           </div>
           <nav className="nav">
             <a onClick={() => onNavigate('home')} className="nav-link">TRANG CHỦ</a>
@@ -26,7 +26,7 @@ const VideoIntro = ({ onNavigate }) => {
             <iframe
               className="intro-video"
               src="https://www.youtube.com/embed/dVTNmSmUo14"
-              title="Video giới thiệu Econowres"
+              title="Video giới thiệu Econoverse"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
@@ -38,7 +38,7 @@ const VideoIntro = ({ onNavigate }) => {
           </h1>
 
           <p className="video-description">
-            Econowres sẽ đồng hành cùng bạn trong hành trình khám phá và phát triển sự nghiệp. 
+            Econoverse sẽ đồng hành cùng bạn trong hành trình khám phá và phát triển sự nghiệp. 
             Hãy bắt đầu ngay hôm nay để tìm ra con đường phù hợp nhất với bản thân!
           </p>
 
@@ -53,7 +53,7 @@ const VideoIntro = ({ onNavigate }) => {
         <div className="video-footer-container">
           <div className="footer-section">
             <div className="footer-logo">
-              <span className="footer-logo-text">Econowres</span>
+              <span className="footer-logo-text">Econoverse</span>
             </div>
             <p className="footer-description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, 

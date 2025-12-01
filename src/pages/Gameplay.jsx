@@ -144,7 +144,7 @@ const Gameplay = ({ onNavigate, careerData }) => {
         <div className="gameplay-footer-container">
           <div className="footer-section">
             <div className="footer-logo">
-              <span className="footer-logo-text">Econowres</span>
+              <span className="footer-logo-text">Econoverse</span>
             </div>
             <p className="footer-description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, 

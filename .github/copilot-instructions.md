@@ -1,4 +1,4 @@
-# Econowres Landing Page Project
+# Econoverse Landing Page Project
 
 ## Project Setup Checklist
 

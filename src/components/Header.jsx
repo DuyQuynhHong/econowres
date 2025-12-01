@@ -50,9 +50,9 @@ const Header = ({ onNavigate }) => {
         ) : (
           <div className="logo" onClick={() => onNavigate('home')} style={{ cursor: 'pointer' }}>
             <div className="logo-icon">
-              <span className="logo-icon-text">Econowres</span>
+              <span className="logo-icon-text">Econoverse</span>
             </div>
-            <span className="logo-text">Econowres</span>
+            <span className="logo-text">Econoverse</span>
           </div>
         )}
         

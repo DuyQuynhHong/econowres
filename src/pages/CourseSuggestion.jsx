@@ -278,7 +278,7 @@ const CourseSuggestion = ({ onNavigate }) => {
         <div className="course-footer-container">
           <div className="footer-section">
             <div className="footer-logo">
-              <span className="footer-logo-text">Econowres</span>
+              <span className="footer-logo-text">Econoverse</span>
             </div>
             <p className="footer-description">
               Nền tảng hướng nghiệp và định hướng nghề nghiệp cho sinh viên 
@@ -297,7 +297,7 @@ const CourseSuggestion = ({ onNavigate }) => {
           <div className="footer-section">
             <h3>VỀ CHÚNG TÔI</h3>
             <p>Fanpage</p>
-            <p>Email: contact@econowres.edu.vn</p>
+            <p>Email: contact@econoverse.edu.vn</p>
             <p>SĐT: (024) 3834 9898</p>
           </div>
         </div>

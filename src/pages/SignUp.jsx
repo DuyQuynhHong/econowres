@@ -45,7 +45,7 @@ const SignUp = ({ onNavigate }) => {
       <header className="auth-header">
         <div className="auth-header-container">
           <div className="logo" onClick={() => onNavigate('home')} style={{ cursor: 'pointer' }}>
-            <span className="logo-text">Econowres</span>
+            <span className="logo-text">Econoverse</span>
           </div>
           <nav className="nav">
             <a onClick={() => onNavigate('home')} className="nav-link">TRANG CHỦ</a>
@@ -145,7 +145,7 @@ const SignUp = ({ onNavigate }) => {
         <div className="auth-footer-container">
           <div className="footer-section">
             <div className="footer-logo">
-              <span className="footer-logo-text">Econowres</span>
+              <span className="footer-logo-text">Econoverse</span>
             </div>
             <p className="footer-description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
