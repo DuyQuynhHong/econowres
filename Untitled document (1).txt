@@ -1,0 +1,5387 @@
+﻿1. Chuyên viên Xuất nhập khẩu (Import/Export Specialist)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Giao dịch thương mại quốc tế (TMA302)
+	Hiểu quy trình, các bước thực hiện một giao dịch XNK, Incoterms để xác định trách nhiệm.
+	2
+	Thanh toán quốc tế (TCH412)
+	Xử lý các phương thức thanh toán L/C, T/T, D/P, đảm bảo an toàn tài chính.
+	3
+	Logistics và vận tải quốc tế (TMA336)
+	Lựa chọn phương thức, tuyến vận tải tối ưu, lập chứng từ vận tải.
+	4
+	Thuế quốc tế (TMA330)
+	Tính toán, kê khai các loại thuế (NK, XK, GTGT) chính xác.
+	5
+	Pháp luật thương mại quốc tế (PLU422)
+	Nắm vững khung pháp lý để xử lý hợp đồng, tranh chấp.
+	6
+	Chính sách thương mại quốc tế (TMA301)
+	Nắm vững luật chơi, các rào cản và ưu đãi thuế quan khi XNK.
+	7
+	Nghiệp vụ hải quan (TMA310)
+	Nền tảng về thủ tục thông quan, khai báo hải quan.
+	8
+	Bảo hiểm trong kinh doanh (TMA402)
+	Lựa chọn loại bảo hiểm phù hợp cho hàng hóa XNK.
+	9
+	Quan hệ kinh tế quốc tế
+	Hiểu bối cảnh chính trị - kinh tế tác động đến quyết định XNK.
+	10
+	Lý thuyết tài chính
+	Đánh giá rủi ro tài chính, quản lý dòng tiền trong giao dịch XNK.
+	11
+	Nguyên lý kế toán (KET201)
+	Hạch toán, theo dõi chi phí, giá vốn hàng XNK.
+	12
+	Đàm phán thương mại quốc tế (TMA404)
+	Đàm phán thành công các điều khoản trong hợp đồng mua bán quốc tế.
+	13
+	Marketing quốc tế (MKT401)
+	Nghiên cứu thị trường và tìm kiếm đối tác, nhà cung cấp quốc tế.
+	14
+	Sở hữu trí tuệ (TMA408)
+	Tránh vi phạm SHTT khi nhập khẩu hoặc đăng ký SHTT khi xuất khẩu.
+	15
+	Nguyên lý quản lý kinh tế
+	Quản lý, điều phối các hoạt động kinh doanh XNK.
+	16
+	Cơ sở dữ liệu (TIN313)
+	Quản lý dữ liệu, chứng từ XNK khổng lồ.
+	17
+	Thương hiệu trong kinh doanh quốc tế
+	Hiểu về nhãn hiệu, mã HS, nguồn gốc sản phẩm XNK.
+	18
+	Thương mại kỹ thuật số (TMA333)
+	Thực hiện XNK trên các nền tảng thương mại điện tử (e-commerce).
+	19
+	Quản lý năng suất và chất lượng
+	Đảm bảo chất lượng hàng hóa XNK đáp ứng tiêu chuẩn quốc tế.
+	20
+	Thương mại dịch vụ
+	Cần thiết khi công ty giao dịch các loại dịch vụ xuyên biên giới.
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Xúc tiến thương mại, du lịch, đầu tư QT
+	Tìm kiếm thị trường và khách hàng nước ngoài.
+	22
+	Văn hóa trong kinh doanh
+	Hiểu đối tác để giao tiếp và đàm phán XNK hiệu quả hơn.
+	23
+	Chiến lược kinh doanh của DNTM
+	Đặt các mục tiêu và kế hoạch dài hạn cho hoạt động XNK của công ty.
+	24
+	Sáng tạo kinh doanh
+	Tìm kiếm các mô hình XNK mới, hiệu quả hơn.
+	25
+	Kinh tế học về nền tảng kinh doanh
+	Hiểu cách các nền tảng số hóa (Platform) thay đổi XNK.
+	26
+	Lập trình cho phân tích dữ liệu
+	Phân tích xu hướng thị trường, tối ưu hóa lợi nhuận XNK.
+	27
+	Đổi mới sáng tạo
+	
+
+	28
+	Quản trị học
+	Kỹ năng lập kế hoạch và tổ chức công việc XNK.
+	29
+	Logic học và phương pháp NCKH
+	Tư duy hệ thống và giải quyết vấn đề trong XNK.
+	30
+	Kinh tế vĩ mô
+	Phân tích tác động của chính sách kinh tế đến XNK.
+	________________
+
+
+2. Chuyên viên Hiện trường (Customs Clearance Officer/ Field Specialist)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Logistics và vận tải quốc tế (TMA336)
+	Nắm vững các quy trình giao nhận, thủ tục tại cảng, sân bay.
+	2
+	Nghiệp vụ hải quan (TMA310)
+	Kiến thức trực tiếp để làm các thủ tục khai báo, kiểm tra hàng hóa tại hiện trường.
+	3
+	Giao dịch thương mại quốc tế (TMA302)
+	Hiểu rõ các điều kiện giao hàng (Incoterms) để biết trách nhiệm nhận hàng/giao hàng tại cảng.
+	4
+	Thuế quốc tế (TMA330)
+	Tính toán thuế để làm thủ tục nộp/bảo lãnh thuế khi thông quan.
+	5
+	Bảo hiểm trong kinh doanh (TMA402)
+	Xử lý các vấn đề liên quan đến bảo hiểm hàng hóa khi có rủi ro tại hiện trường.
+	6
+	Thanh toán quốc tế (TCH412)
+	Xử lý các chứng từ thanh toán để giải phóng hàng (nếu là điều kiện L/C).
+	7
+	Pháp luật thương mại quốc tế (PLU422)
+	Đảm bảo các hoạt động giao nhận tuân thủ pháp luật.
+	8
+	Chính sách thương mại quốc tế
+	Cập nhật các chính sách XNK hàng hóa cụ thể.
+	9
+	Sở hữu trí tuệ (TMA408)
+	Nhận diện hàng giả, hàng nhái, hoặc hàng hóa vi phạm SHTT khi làm thủ tục.
+	10
+	Quan hệ kinh tế quốc tế
+	Hiểu bối cảnh chính trị ảnh hưởng đến quy trình kiểm hóa.
+	11
+	Cơ sở dữ liệu (TIN313)
+	Quản lý và theo dõi trạng thái lô hàng.
+	12
+	Quản lý năng suất và chất lượng
+	Đảm bảo hàng hóa được giao nhận trong tình trạng và thời gian tốt nhất.
+	13
+	Đàm phán thương mại quốc tế (TMA404)
+	Đàm phán với hãng tàu, đơn vị vận tải, cơ quan chức năng.
+	14
+	Thương mại kỹ thuật số (TMA333)
+	Tối ưu hóa các quy trình thông quan số hóa.
+	15
+	Chiến lược kinh doanh của DNTM
+	Đặt mục tiêu tối ưu hóa chi phí giao nhận.
+	16
+	Lý thuyết tài chính
+	Đảm bảo nguồn vốn luân chuyển cho các khoản chi phí phát sinh.
+	17
+	Nguyên lý kế toán (KET201)
+	Theo dõi chi phí, công nợ phát sinh tại hiện trường.
+	18
+	Nguyên lý quản lý kinh tế
+	Quản lý đội ngũ nhân viên hiện trường, điều phối hoạt động.
+	19
+	Văn hóa trong kinh doanh
+	Hiểu cách giao tiếp và làm việc với các bên liên quan.
+	20
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Xúc tiến thương mại, du lịch, đầu tư QT
+	
+
+	22
+	Đổi mới sáng tạo
+	
+
+	23
+	Sáng tạo kinh doanh
+	
+
+	24
+	Thương mại dịch vụ
+	
+
+	25
+	Kinh tế học về nền tảng kinh doanh
+	
+
+	26
+	Quản lý nhà nước về tài nguyên biển
+	
+
+	27
+	Logic học và phương pháp NCKH
+	Tư duy phản ứng nhanh và giải quyết các tình huống phát sinh.
+	28
+	Quản trị học
+	Kỹ năng quản lý và tổ chức công việc tại hiện trường.
+	29
+	Tin học cơ sở
+	Khai báo hải quan điện tử (VNACCS/VCIS).
+	30
+	Pháp luật đại cương
+	Hiểu khung pháp lý chung.
+	________________
+
+
+3. Trade Compliance / Trade Specialist (Chuyên viên Tuân thủ Thương mại)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Chính sách thương mại quốc tế (TMA301)
+	Cốt lõi: Phân tích các hiệp định (WTO, FTA), quy tắc xuất xứ, biện pháp phòng vệ thương mại.
+	2
+	Pháp luật thương mại quốc tế (PLU422)
+	Nắm vững luật lệ quốc tế, các công ước, và cách xử lý tranh chấp.
+	3
+	Thuế quốc tế (TMA330)
+	Đánh giá chính xác thuế XNK, áp dụng ưu đãi thuế quan (C/O) và chống bán phá giá.
+	4
+	Sở hữu trí tuệ (TMA408)
+	Đảm bảo hàng hóa tuân thủ các quy định về SHTT, chống hàng giả, hàng nhái.
+	5
+	Nghiệp vụ hải quan (TMA310)
+	Hiểu sâu về quy trình và yêu cầu thủ tục hải quan để đảm bảo tuân thủ.
+	6
+	Quan hệ kinh tế quốc tế
+	Hiểu bối cảnh chính trị-thương mại ảnh hưởng đến việc tuân thủ luật pháp.
+	7
+	Giao dịch thương mại quốc tế (TMA302)
+	Kiểm tra các điều khoản trong hợp đồng có tuân thủ quy tắc không.
+	8
+	Thanh toán quốc tế (TCH412)
+	Đảm bảo các quy định về chống rửa tiền, giao dịch với các bên bị cấm vận.
+	9
+	Bảo hiểm trong kinh doanh (TMA402)
+	Kiểm tra sự tuân thủ quy định bảo hiểm hàng hóa theo hợp đồng và luật pháp.
+	10
+	Logistics và vận tải quốc tế (TMA336)
+	Đảm bảo tuân thủ các quy tắc về vận chuyển hàng nguy hiểm, kiểm dịch.
+	11
+	Nguyên lý quản lý kinh tế
+	Quản lý hệ thống tuân thủ (Compliance System) của công ty.
+	12
+	Đàm phán thương mại quốc tế (TMA404)
+	Đàm phán với cơ quan chính phủ/đối tác về các vấn đề tuân thủ.
+	13
+	Marketing quốc tế (MKT401)
+	Đảm bảo quảng cáo, nhãn mác sản phẩm tuân thủ luật pháp quốc tế.
+	14
+	Quản lý rủi ro
+	Nhận diện và giảm thiểu rủi ro pháp lý trong hoạt động thương mại.
+	15
+	Thương mại kỹ thuật số (TMA333)
+	Tuân thủ các quy định về thương mại điện tử, bảo vệ dữ liệu xuyên biên giới.
+	16
+	Cơ sở dữ liệu (TIN313)
+	Quản lý dữ liệu tuân thủ, hồ sơ chứng từ pháp lý.
+	17
+	Văn hóa trong kinh doanh
+	Hiểu tiêu chuẩn đạo đức và tuân thủ của các thị trường khác nhau.
+	18
+	Lý thuyết tài chính
+	
+
+	19
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	20
+	Nguyên lý kế toán (KET201)
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Logic học và phương pháp NCKH
+	Phân tích phức tạp, áp dụng quy tắc vào trường hợp cụ thể một cách logic.
+	22
+	Quản trị học
+	Quản lý và tổ chức công việc tuân thủ.
+	23
+	Kinh tế vĩ mô
+	
+
+	24
+	Kinh tế vi mô
+	
+
+	25
+	Quản lý năng suất và chất lượng
+	
+
+	26
+	Đổi mới sáng tạo
+	
+
+	27
+	Sáng tạo kinh doanh
+	
+
+	28
+	Lập trình cho phân tích dữ liệu
+	
+
+	29
+	Pháp luật đại cương
+	Hiểu khung pháp lý chung.
+	30
+	Tin học cơ sở
+	
+
+	________________
+
+
+4. Freight Forwarder / Logistics Specialist (Chuyên viên Vận tải/Logistics)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Logistics và vận tải quốc tế (TMA336)
+	Cốt lõi: Quy trình vận tải đa phương thức, quản lý kho bãi, chuỗi cung ứng.
+	2
+	Giao dịch thương mại quốc tế (TMA302)
+	Hiểu sâu các điều khoản Incoterms để xác định chính xác trách nhiệm vận tải và giao nhận.
+	3
+	Nghiệp vụ hải quan (TMA310)
+	Phối hợp hoặc trực tiếp làm thủ tục thông quan cho khách hàng (dịch vụ door-to-door).
+	4
+	Bảo hiểm trong kinh doanh (TMA402)
+	Tư vấn và xử lý yêu cầu bồi thường bảo hiểm hàng hóa vận tải.
+	5
+	Thuế quốc tế (TMA330)
+	Tính toán các loại thuế, phí liên quan đến vận tải, kho bãi.
+	6
+	Pháp luật thương mại quốc tế (PLU422)
+	Luật hàng hải, luật hàng không, các công ước vận tải quốc tế.
+	7
+	Cơ sở dữ liệu (TIN313)
+	Quản lý hệ thống dữ liệu vận tải (tracking, booking, manifest).
+	8
+	Lập trình cho phân tích dữ liệu
+	Tối ưu hóa tuyến đường, chi phí vận tải bằng các mô hình định lượng.
+	9
+	Đàm phán thương mại quốc tế (TMA404)
+	Thương lượng giá cước và hợp đồng với hãng tàu, đại lý nước ngoài.
+	10
+	Thanh toán quốc tế (TCH412)
+	Thanh toán cước phí vận tải, phí dịch vụ đại lý quốc tế.
+	11
+	Quan hệ kinh tế quốc tế
+	Hiểu các khu vực thương mại ảnh hưởng đến luồng hàng.
+	12
+	Quản lý năng suất và chất lượng
+	Đảm bảo chất lượng dịch vụ Logistics (on-time delivery, tình trạng hàng hóa).
+	13
+	Thương mại dịch vụ
+	Cần thiết khi cung cấp dịch vụ logistics (vận tải, giao nhận, kho bãi).
+	14
+	Lý thuyết tài chính
+	Quản lý vốn lưu động, chi phí đầu tư cho hệ thống kho bãi, phương tiện.
+	15
+	Chính sách thương mại quốc tế
+	Nắm các quy định về kiểm dịch, kiểm tra chuyên ngành ảnh hưởng đến vận tải.
+	16
+	Thương mại kỹ thuật số (TMA333)
+	Ứng dụng công nghệ số (Blockchain, IoT) trong quản lý chuỗi cung ứng.
+	17
+	Chiến lược kinh doanh của DNTM
+	Xây dựng chiến lược cạnh tranh cho công ty Freight Forwarder.
+	18
+	Nguyên lý kế toán (KET201)
+	
+
+	19
+	Nguyên lý quản lý kinh tế
+	Quản lý đội ngũ nhân viên hiện trường, điều phối hoạt động.
+	20
+	Marketing quốc tế (MKT401)
+	Phát triển khách hàng và xây dựng thương hiệu logistics.
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Sở hữu trí tuệ (TMA408)
+	
+
+	22
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	23
+	Xúc tiến thương mại, du lịch, đầu tư QT
+	
+
+	24
+	Văn hóa trong kinh doanh
+	
+
+	25
+	Sáng tạo kinh doanh
+	Phát triển các giải pháp Logistics xanh, hiệu quả.
+	26
+	Đổi mới sáng tạo
+	
+
+	27
+	Logic học và phương pháp NCKH
+	Tư duy giải quyết vấn đề.
+	28
+	Quản trị học
+	Kỹ năng quản lý và tổ chức.
+	29
+	Pháp luật đại cương
+	
+
+	30
+	Tin học cơ sở
+	
+
+	________________
+
+
+5. Procurement / Sourcing Specialist (Chuyên viên Mua hàng/Tìm kiếm Nguồn cung ứng)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Đàm phán thương mại quốc tế (TMA404)
+	Cốt lõi: Đàm phán về giá, điều kiện giao hàng, chất lượng, và hợp đồng mua hàng.
+	2
+	Marketing quốc tế (MKT401)
+	Nghiên cứu và tìm kiếm nguồn cung ứng (sourcing) tiềm năng trên thị trường quốc tế.
+	3
+	Giao dịch thương mại quốc tế (TMA302)
+	Lập và thực hiện hợp đồng mua bán quốc tế; hiểu Incoterms để xác định điểm chuyển giao rủi ro.
+	4
+	Thanh toán quốc tế (TCH412)
+	Xử lý các phương thức thanh toán an toàn, có lợi nhất cho người mua (L/C, T/T).
+	5
+	Logistics và vận tải quốc tế (TMA336)
+	Tối ưu hóa chi phí và thời gian vận chuyển hàng mua.
+	6
+	Lý thuyết tài chính
+	Đánh giá năng lực tài chính của nhà cung cấp, phân tích chi phí mua hàng.
+	7
+	Chính sách thương mại quốc tế
+	Nắm các quy định nhập khẩu, các biện pháp phòng vệ thương mại.
+	8
+	Thuế quốc tế (TMA330)
+	Tính toán thuế nhập khẩu và các chi phí liên quan để xác định giá vốn.
+	9
+	Quản lý năng suất và chất lượng
+	Đánh giá chất lượng sản phẩm và năng lực sản xuất của nhà cung cấp.
+	10
+	Quan hệ kinh tế quốc tế
+	Đánh giá rủi ro nguồn cung từ các quốc gia/khu vực khác nhau.
+	11
+	Bảo hiểm trong kinh doanh (TMA402)
+	Đảm bảo hàng hóa mua được bảo hiểm đầy đủ.
+	12
+	Pháp luật thương mại quốc tế (PLU422)
+	Lập hợp đồng mua hàng chặt chẽ, bảo vệ lợi ích người mua.
+	13
+	Sở hữu trí tuệ (TMA408)
+	Đảm bảo sản phẩm mua không vi phạm SHTT.
+	14
+	Nguyên lý kế toán (KET201)
+	Theo dõi chi phí mua hàng, quản lý ngân sách mua hàng.
+	15
+	Văn hóa trong kinh doanh
+	Hiểu văn hóa đối tác để xây dựng mối quan hệ mua hàng lâu dài.
+	16
+	Thương mại kỹ thuật số (TMA333)
+	Tìm kiếm, giao dịch mua hàng trên các nền tảng B2B quốc tế.
+	17
+	Chiến lược kinh doanh của DNTM
+	Xây dựng chiến lược mua hàng phù hợp với chiến lược tổng thể của công ty.
+	18
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	19
+	Cơ sở dữ liệu (TIN313)
+	Quản lý hồ sơ nhà cung cấp và lịch sử mua hàng.
+	20
+	Nguyên lý quản lý kinh tế
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Xúc tiến thương mại, du lịch, đầu tư QT
+	
+
+	22
+	Sáng tạo kinh doanh
+	Tìm kiếm các chiến lược mua hàng mới, phá cách.
+	23
+	Đổi mới sáng tạo
+	
+
+	24
+	Thương mại dịch vụ
+	
+
+	25
+	Nghiệp vụ hải quan (TMA310)
+	
+
+	26
+	Logic học và phương pháp NCKH
+	Tư duy hệ thống và phân tích.
+	27
+	Quản trị học
+	
+
+	28
+	Kinh tế vĩ mô
+	
+
+	29
+	Kinh tế vi mô
+	
+
+	30
+	Tin học cơ sở
+	
+
+	________________
+
+
+6. Chuyên viên Thanh toán quốc tế (International Payment Specialist)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Thanh toán quốc tế (TCH412)
+	Cốt lõi: Nắm vững các phương thức, UCP 600, ISBP, xử lý chứng từ thanh toán.
+	2
+	Lý thuyết tài chính (TCH302)
+	Hiểu về thị trường ngoại hối, tỷ giá, công cụ phòng ngừa rủi ro tỷ giá.
+	3
+	Giao dịch thương mại quốc tế (TMA302)
+	Hiểu mối liên hệ giữa điều kiện Incoterms và nghĩa vụ thanh toán trong hợp đồng.
+	4
+	Pháp luật thương mại quốc tế (PLU422)
+	Đảm bảo giao dịch thanh toán tuân thủ luật pháp quốc tế và chống rửa tiền.
+	5
+	Thuế quốc tế (TMA330)
+	Nắm các quy định về chuyển tiền, thuế nhà thầu nước ngoài (FCT).
+	6
+	Nguyên lý kế toán (KET201)
+	Hạch toán nghiệp vụ thanh toán, theo dõi công nợ ngoại tệ.
+	7
+	Quan hệ kinh tế quốc tế
+	Theo dõi các lệnh trừng phạt (sanctions), cấm vận có thể ảnh hưởng đến giao dịch.
+	8
+	Quản lý rủi ro
+	Quản lý rủi ro tín dụng và rủi ro thanh khoản trong thanh toán.
+	9
+	Chính sách thương mại quốc tế
+	Nắm vững các quy định quản lý ngoại hối của ngân hàng trung ương.
+	10
+	Bảo hiểm trong kinh doanh (TMA402)
+	Kiểm tra chứng từ bảo hiểm phù hợp với điều kiện giao dịch.
+	11
+	Logistics và vận tải quốc tế (TMA336)
+	Kiểm tra chứng từ vận tải (B/L) phù hợp với yêu cầu L/C.
+	12
+	Cơ sở dữ liệu (TIN313)
+	Quản lý hệ thống giao dịch thanh toán.
+	13
+	Đàm phán thương mại quốc tế (TMA404)
+	Đàm phán với ngân hàng về điều kiện thanh toán.
+	14
+	Thương mại kỹ thuật số (TMA333)
+	Ứng dụng công nghệ Fintech, Blockchain trong thanh toán.
+	15
+	Nguyên lý quản lý kinh tế
+	Quản lý bộ phận thanh toán quốc tế.
+	16
+	Quản lý năng suất và chất lượng
+	Đảm bảo tốc độ và độ chính xác của giao dịch.
+	17
+	Nghiệp vụ hải quan (TMA310)
+	
+
+	18
+	Thương mại dịch vụ
+	
+
+	19
+	Sở hữu trí tuệ (TMA408)
+	
+
+	20
+	Marketing quốc tế (MKT401)
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Logic học và phương pháp NCKH
+	Tư duy phân tích chứng từ L/C chính xác, chi tiết.
+	22
+	Kinh tế vĩ mô
+	Phân tích chính sách tiền tệ và ảnh hưởng đến tỷ giá hối đoái.
+	23
+	Quản trị học
+	
+
+	24
+	Pháp luật đại cương
+	
+
+	25
+	Tin học cơ sở
+	Sử dụng phần mềm thanh toán (ví dụ: Swift).
+	26
+	Sáng tạo kinh doanh
+	
+
+	27
+	Đổi mới sáng tạo
+	
+
+	28
+	Chiến lược kinh doanh của DNTM
+	
+
+	29
+	Lập trình cho phân tích dữ liệu
+	
+
+	30
+	Văn hóa trong kinh doanh
+	
+
+	________________
+
+
+7. Trade Policy / FTA Specialist (Chuyên viên Chính sách Thương mại/FTA)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Chính sách thương mại quốc tế (TMA301)
+	Cốt lõi: Phân tích cơ sở, mục tiêu, công cụ, và tác động của các chính sách thương mại.
+	2
+	Quan hệ kinh tế quốc tế (KTE306)
+	Nền tảng về các định chế quốc tế (WTO, UNCTAD) và bối cảnh đàm phán FTA.
+	3
+	Pháp luật thương mại quốc tế (PLU422)
+	Nắm vững luật chơi trong WTO, các quy định của FTA, giải quyết tranh chấp.
+	4
+	Thuế quốc tế (TMA330)
+	Phân tích cơ chế giảm thuế, quy tắc xuất xứ (Rules of Origin - ROO) trong FTA.
+	5
+	Thương mại dịch vụ (TMA412)
+	Phân tích các cam kết về thương mại dịch vụ và đầu tư trong FTA.
+	6
+	Sở hữu trí tuệ (TMA408)
+	Phân tích các cam kết về SHTT (ví dụ: Hiệp định TRIPS) trong các FTA thế hệ mới.
+	7
+	Đàm phán thương mại quốc tế (TMA404)
+	Kỹ năng đàm phán, thương lượng chính sách.
+	8
+	Kinh tế vĩ mô
+	Phân tích tác động của chính sách thương mại lên cán cân thanh toán, tăng trưởng kinh tế.
+	9
+	Logic học và phương pháp NCKH
+	Kỹ năng nghiên cứu, phân tích các báo cáo và văn bản FTA dài, phức tạp.
+	10
+	Thương mại kỹ thuật số (TMA333)
+	Phân tích các cam kết về thương mại điện tử (e-commerce) và dữ liệu xuyên biên giới trong FTA.
+	11
+	Quản lý nhà nước về tài nguyên biển (KTE333)
+	Cần thiết khi phân tích các chính sách/tranh chấp liên quan đến kinh tế biển.
+	12
+	Marketing quốc tế (MKT401)
+	Đánh giá tiềm năng thị trường và các rào cản phi thuế quan khi tiếp cận thị trường FTA.
+	13
+	Nghiệp vụ hải quan (TMA310)
+	Hiểu quy trình thực thi chính sách tại cửa khẩu, thủ tục C/O.
+	14
+	Giao dịch thương mại quốc tế (TMA302)
+	
+
+	15
+	Lý thuyết tài chính
+	Phân tích dòng vốn đầu tư xuyên biên giới theo các điều khoản FTA.
+	16
+	Cơ sở dữ liệu (TIN313)
+	Xây dựng và quản lý cơ sở dữ liệu các cam kết và dòng chảy thương mại.
+	17
+	Nguyên lý quản lý kinh tế
+	Quản lý các dự án nghiên cứu và tư vấn chính sách thương mại.
+	18
+	Kinh tế vi mô
+	Phân tích lợi ích/thiệt hại của các ngành/doanh nghiệp cụ thể khi tham gia FTA.
+	19
+	Thanh toán quốc tế (TCH412)
+	
+
+	20
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Logistics và vận tải quốc tế (TMA336)
+	Phân tích các cam kết FTA về vận tải.
+	22
+	Bảo hiểm trong kinh doanh (TMA402)
+	Phân tích các cam kết FTA về dịch vụ bảo hiểm.
+	23
+	Nguyên lý kế toán (KET201)
+	
+
+	24
+	Chiến lược kinh doanh của DNTM
+	Tư vấn chiến lược kinh doanh cho doanh nghiệp dựa trên lợi thế FTA.
+	25
+	Sáng tạo kinh doanh
+	
+
+	26
+	Đổi mới sáng tạo
+	
+
+	27
+	Văn hóa trong kinh doanh
+	
+
+	28
+	Quản trị học
+	Kỹ năng điều hành và tổ chức công việc phân tích chính sách.
+	29
+	Pháp luật đại cương
+	
+
+	30
+	Tin học cơ sở
+	
+
+	
+
+🎨 WORLD: MARKETING (International Marketing – Branding – Market Research – Digital Marketing)
+Áp dụng cho các hướng nghề:
+* Digital Marketing
+
+* Brand Executive / Brand Manager
+
+* Market Researcher / Consumer Insight
+
+* Trade Marketing / Channel Marketing
+
+* Product Marketing
+
+* Marketing Analyst
+
+* IMC / Advertising
+1. Chuyên viên Digital Marketing (Digital Marketing Specialist)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Marketing số (Digital marketing)
+	Cốt lõi của nghề
+	2
+	Truyền thông Marketing số (Digital Marketing Communication)
+	Kỹ năng thực thi chiến dịch số
+	3
+	Sáng tạo ý tưởng thiết kế và nội dung số (Digital Content Creation)
+	Sản xuất nội dung cho các kênh số
+	4
+	Quản trị phân phối và phát triển kênh bán số (Distribution Management and digital channel development)
+	Quản lý kênh bán hàng trực tuyến
+	5
+	Quản lý thương hiệu và nhượng quyền thương mại (Franchise Management)
+	Xây dựng thương hiệu trên nền tảng số
+	6
+	Marketing căn bản (Principles of Marketing)
+	Nền tảng 4P
+	7
+	Chiến lược và kế hoạch Marketing (Marketing Planning and Strategies)
+	Lập kế hoạch tổng thể cho Digital Marketing
+	8
+	Tâm lý và hành vi khách hàng (Customer’s Psychology and Behavior)
+	Hiểu người dùng số
+	9
+	Nghiên cứu Marketing (Marketing Research)
+	Phân tích thị trường số
+	10
+	Lập dự án kinh doanh số (Digital Project Planning)
+	Quản lý và triển khai dự án số
+	11
+	Kinh doanh số (Digital Business)
+	Hiểu mô hình kinh doanh trên nền tảng số
+	12
+	Cơ sở dữ liệu (Data management system)
+	Quản lý dữ liệu chiến dịch
+	13
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Nền tảng tư duy nghiên cứu
+	14
+	Quản trị học (Fundamentals of Management)
+	Kỹ năng tổ chức và quản lý
+	15
+	FDMAP2: Dự án thực chiến nghiên cứu thị trường
+	Thực hành phân tích thị trường
+	16
+	FDMAP3: Dự án thực hành kênh bán hàng số
+	Thực hành quản trị kênh bán số
+	17
+	Kinh tế vi mô (Microeconomics)
+	Phân tích cung cầu, giá cả
+	18
+	Kinh tế vĩ mô (Macroeconomics)
+	Phân tích bối cảnh kinh tế vĩ mô
+	19
+	Pháp luật điều chỉnh trong thương mại điện tử
+	Tuân thủ pháp lý trong hoạt động số
+	20
+	Marketing quốc tế (International Marketing)
+	Triển khai chiến dịch xuyên biên giới
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Phân tích dữ liệu kinh doanh (Business Analytics)
+	Kỹ năng chuyên sâu về phân tích dữ liệu chiến dịch
+	22
+	Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+	Ứng dụng AI trong tối ưu chiến dịch
+	23
+	Thương mại điện tử (E-Commerce)
+	Kiến thức sâu về vận hành sàn TMĐT
+	24
+	Quan hệ khách hàng trong kinh doanh (Business Customer Relationships)
+	Quản lý CRM
+	25
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	Quản lý và khai thác Big Data
+	26
+	Lập trình cho dữ liệu và tính toán khoa học
+	Kỹ năng lập trình cơ bản phục vụ phân tích
+	27
+	Sở hữu trí tuệ trong môi trường số
+	Bảo vệ nội dung, thương hiệu số
+	28
+	Đổi mới sáng tạo trong kinh doanh số
+	Cải tiến mô hình/công cụ Digital Marketing
+	29
+	Đạo đức kinh doanh và trách nhiệm xã hội
+	Đảm bảo tính minh bạch, đạo đức trong quảng cáo
+	30
+	Lý thuyết tài chính (Principles of Finance)
+	Hiểu về ngân sách và hiệu suất tài chính
+	________________
+
+
+2. Brand Executive / Brand Manager
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Quản lý thương hiệu và nhượng quyền thương mại
+	Cốt lõi của quản lý thương hiệu
+	2
+	Chiến lược và kế hoạch Marketing
+	Xây dựng chiến lược thương hiệu
+	3
+	Tâm lý và hành vi khách hàng
+	Nền tảng Insight người tiêu dùng
+	4
+	Truyền thông Marketing số
+	Quản lý thông điệp thương hiệu trên kênh số
+	5
+	Sáng tạo ý tưởng thiết kế và nội dung số
+	Kiểm soát chất lượng Content Branding
+	6
+	Quan hệ công chúng (Public Relation Management)
+	Quản lý danh tiếng và xử lý khủng hoảng truyền thông
+	7
+	Marketing số
+	Xây dựng thương hiệu trên nền tảng số
+	8
+	Nghiên cứu Marketing
+	Đo lường sức khỏe thương hiệu (Brand Health Check)
+	9
+	Marketing căn bản
+	
+
+	10
+	Kinh doanh số
+	
+
+	11
+	Quản trị học
+	
+
+	12
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	
+
+	13
+	Cơ sở dữ liệu
+	
+
+	14
+	Marketing quốc tế
+	Quản lý thương hiệu toàn cầu
+	15
+	Đạo đức kinh doanh và trách nhiệm xã hội
+	Nền tảng xây dựng thương hiệu có trách nhiệm
+	16
+	Sở hữu trí tuệ trong môi trường số
+	Bảo vệ thương hiệu, logo
+	17
+	Lập dự án kinh doanh số
+	
+
+	18
+	Kinh tế vi mô
+	
+
+	19
+	Kinh tế vĩ mô
+	
+
+	20
+	Quan hệ khách hàng trong kinh doanh
+	Xây dựng lòng trung thành thương hiệu
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	
+
+	22
+	Phân tích dữ liệu kinh doanh
+	
+
+	23
+	Marketing dịch vụ
+	Quản lý thương hiệu dịch vụ
+	24
+	Đổi mới sáng tạo trong kinh doanh số
+	
+
+	25
+	Quản trị tài chính (Financial Management)
+	Quản lý ngân sách thương hiệu
+	26
+	Nguyên lý kế toán
+	
+
+	27
+	Quản trị phân phối và phát triển kênh bán số
+	
+
+	28
+	Quản lý số (Digital Governance)
+	
+
+	29
+	Pháp luật điều chỉnh trong thương mại điện tử
+	
+
+	30
+	Kinh doanh quốc tế (International Business)
+	
+
+	________________
+
+
+3. Market Researcher / Consumer Insight
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Nền tảng cốt lõi của nghiên cứu
+	2
+	Nghiên cứu Marketing
+	Quy trình nghiên cứu chuyên ngành
+	3
+	Tâm lý và hành vi khách hàng
+	Cốt lõi của Insight
+	4
+	FDMAP2: Dự án thực chiến nghiên cứu thị trường
+	Thực hành thu thập, phân tích dữ liệu
+	5
+	Phân tích dữ liệu kinh doanh (Business Analytics)
+	Kỹ năng phân tích chuyên sâu
+	6
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	Xử lý Big Data và dữ liệu thứ cấp
+	7
+	Lập trình cho dữ liệu và tính toán khoa học
+	Kỹ năng phân tích định lượng (Data Science)
+	8
+	Cơ sở dữ liệu
+	Quản lý kho dữ liệu nghiên cứu
+	9
+	Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+	Ứng dụng AI/Machine Learning trong phân tích
+	10
+	Marketing căn bản
+	
+
+	11
+	Chiến lược và kế hoạch Marketing
+	Ứng dụng kết quả nghiên cứu vào chiến lược
+	12
+	Marketing số
+	Nghiên cứu dữ liệu từ các nền tảng số (Google Analytics, Social Listening)
+	13
+	Kinh tế vi mô
+	
+
+	14
+	Kinh tế vĩ mô
+	
+
+	15
+	Quản trị học
+	
+
+	16
+	Quản lý số
+	
+
+	17
+	Lý thuyết tài chính
+	
+
+	18
+	Nguyên lý kế toán
+	Phân tích chi phí nghiên cứu và ngân sách
+	19
+	Thương mại điện tử
+	Nghiên cứu hành vi mua hàng online
+	20
+	Pháp luật điều chỉnh trong thương mại điện tử
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Marketing quốc tế
+	
+
+	22
+	Marketing dịch vụ
+	Nghiên cứu Insight trong lĩnh vực dịch vụ
+	23
+	Quản lý thương hiệu và nhượng quyền thương mại
+	
+
+	24
+	Quan hệ khách hàng trong kinh doanh
+	
+
+	25
+	Công nghệ di động, Internet vạn vật và ứng dụng
+	
+
+	26
+	Số hóa trong quản lý chuỗi cung ứng
+	
+
+	27
+	Quản trị tài chính
+	
+
+	28
+	Quản lý rủi ro trong kinh doanh quốc tế
+	
+
+	29
+	Truyền thông Marketing số
+	
+
+	30
+	Kinh doanh số
+	
+
+	________________
+
+
+4. Trade Marketing / Channel Marketing
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Quản trị phân phối và phát triển kênh bán số
+	Cốt lõi của Trade/Channel Marketing
+	2
+	Chiến lược và kế hoạch Marketing
+	Xây dựng chiến lược phân phối và kích hoạt kênh
+	3
+	Tâm lý và hành vi khách hàng
+	Hiểu hành vi người mua hàng tại điểm bán (Shopper Marketing)
+	4
+	Thương mại điện tử
+	Kênh phân phối online
+	5
+	FDMAP3: Dự án thực hành kênh bán hàng số
+	Thực hành quản lý kênh phân phối
+	6
+	Số hóa trong quản lý chuỗi cung ứng
+	Liên kết giữa Trade và Logistics
+	7
+	Quan hệ khách hàng trong kinh doanh
+	Quản lý mối quan hệ với kênh phân phối (Distributor/Retailer)
+	8
+	Marketing căn bản
+	
+
+	9
+	Nghiên cứu Marketing
+	Nghiên cứu điểm bán, Trade Audit
+	10
+	Marketing số
+	Kích hoạt Trade Marketing trên kênh số
+	11
+	Quản lý thương hiệu và nhượng quyền thương mại
+	Quản lý hình ảnh thương hiệu tại điểm bán
+	12
+	Quản trị học
+	
+
+	13
+	Kinh doanh số
+	
+
+	14
+	Kinh tế vi mô
+	
+
+	15
+	Kinh tế vĩ mô
+	
+
+	16
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	
+
+	17
+	Cơ sở dữ liệu
+	
+
+	18
+	Nguyên lý kế toán
+	Quản lý chi phí và lợi nhuận kênh
+	19
+	Lý thuyết tài chính
+	
+
+	20
+	Quản trị tài chính
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Xúc tiến thương mại, du lịch, đầu tư quốc tế
+	Hoạt động Trade Promotion
+	22
+	Phân tích dữ liệu kinh doanh
+	Phân tích dữ liệu bán hàng kênh
+	23
+	Truyền thông Marketing số
+	
+
+	24
+	Marketing dịch vụ
+	Trade Marketing cho dịch vụ
+	25
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	
+
+	26
+	Công nghệ di động, Internet vạn vật và ứng dụng
+	
+
+	27
+	Lập dự án kinh doanh số
+	
+
+	28
+	Đổi mới sáng tạo trong kinh doanh số
+	
+
+	29
+	Pháp luật điều chỉnh trong thương mại điện tử
+	
+
+	30
+	FDMAP2: Dự án thực chiến nghiên cứu thị trường
+	
+
+	________________
+
+
+5. Product Marketing
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Marketing dịch vụ (Service Marketing)
+	Rất quan trọng khi Product là Service/Phần mềm
+	2
+	Quản lý thương hiệu và nhượng quyền thương mại
+	Định vị sản phẩm
+	3
+	Chiến lược và kế hoạch Marketing
+	Xây dựng chiến lược cho sản phẩm mới
+	4
+	Tâm lý và hành vi khách hàng
+	Phân tích nhu cầu sản phẩm
+	5
+	Nghiên cứu Marketing
+	Nghiên cứu sản phẩm, thử nghiệm thị trường
+	6
+	FDMAP2: Dự án thực chiến nghiên cứu thị trường
+	
+
+	7
+	Marketing số
+	Launching sản phẩm trên kênh số
+	8
+	Truyền thông Marketing số
+	Truyền thông tính năng sản phẩm
+	9
+	Sáng tạo ý tưởng thiết kế và nội dung số
+	
+
+	10
+	Lập dự án kinh doanh số
+	Lập kế hoạch phát triển sản phẩm
+	11
+	Marketing căn bản
+	
+
+	12
+	Kinh doanh số
+	
+
+	13
+	Quản trị học
+	
+
+	14
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	
+
+	15
+	Kinh tế vi mô
+	
+
+	16
+	Kinh tế vĩ mô
+	
+
+	17
+	Cơ sở dữ liệu
+	
+
+	18
+	Đổi mới sáng tạo trong kinh doanh số
+	Cải tiến sản phẩm
+	19
+	Sở hữu trí tuệ trong môi trường số
+	Đăng ký và bảo vệ sản phẩm
+	20
+	Quản trị phân phối và phát triển kênh bán số
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Quan hệ khách hàng trong kinh doanh
+	
+
+	22
+	Quan hệ công chúng
+	
+
+	23
+	Phân tích dữ liệu kinh doanh
+	
+
+	24
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	
+
+	25
+	Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+	
+
+	26
+	Số hóa trong quản lý chuỗi cung ứng
+	
+
+	27
+	Marketing quốc tế
+	
+
+	28
+	Nguyên lý kế toán
+	
+
+	29
+	Lý thuyết tài chính
+	
+
+	30
+	Pháp luật điều chỉnh trong thương mại điện tử
+	
+
+	________________
+
+
+6. Marketing Analyst
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Phân tích dữ liệu kinh doanh (Business Analytics)
+	Cốt lõi của nghề Analyst
+	2
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	Khai thác Big Data
+	3
+	Lập trình cho dữ liệu và tính toán khoa học
+	Kỹ năng xử lý dữ liệu
+	4
+	Cơ sở dữ liệu
+	
+
+	5
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Nền tảng phân tích định lượng
+	6
+	Nghiên cứu Marketing
+	Thiết kế nghiên cứu dữ liệu
+	7
+	Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+	Mô hình hóa dữ liệu và dự báo
+	8
+	Kinh tế vi mô
+	Phân tích độ co giãn, tối ưu giá
+	9
+	Kinh tế vĩ mô
+	
+
+	10
+	Lý thuyết tài chính
+	Phân tích ROI, hiệu quả đầu tư
+	11
+	Nguyên lý kế toán
+	
+
+	12
+	Marketing căn bản
+	
+
+	13
+	Chiến lược và kế hoạch Marketing
+	Ứng dụng kết quả phân tích vào chiến lược
+	14
+	Marketing số
+	Phân tích hiệu suất Digital Campaign
+	15
+	Tâm lý và hành vi khách hàng
+	Phân tích hành vi, phân khúc khách hàng
+	16
+	Kinh doanh số
+	
+
+	17
+	Quản trị học
+	
+
+	18
+	Quản lý số
+	
+
+	19
+	Quản trị tài chính
+	
+
+	20
+	FDMAP2: Dự án thực chiến nghiên cứu thị trường
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Thương mại điện tử
+	Phân tích dữ liệu e-commerce
+	22
+	Số hóa trong quản lý chuỗi cung ứng
+	Phân tích dữ liệu Logistics
+	23
+	Truyền thông Marketing số
+	
+
+	24
+	Quản lý thương hiệu và nhượng quyền thương mại
+	
+
+	25
+	Đổi mới sáng tạo trong kinh doanh số
+	
+
+	26
+	Công nghệ di động, Internet vạn vật và ứng dụng
+	
+
+	27
+	Marketing quốc tế
+	
+
+	28
+	Quan hệ khách hàng trong kinh doanh
+	
+
+	29
+	Pháp luật điều chỉnh trong thương mại điện tử
+	
+
+	30
+	FDMAP3: Dự án thực hành kênh bán hàng số
+	
+
+	________________
+
+
+7. IMC / Advertising (Integrated Marketing Communication)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Truyền thông Marketing số (Digital Marketing Communication)
+	Cốt lõi của truyền thông tích hợp
+	2
+	Sáng tạo ý tưởng thiết kế và nội dung số
+	Sản xuất thông điệp quảng cáo
+	3
+	Quan hệ công chúng (Public Relation Management)
+	Quan trọng cho IMC và quản lý danh tiếng
+	4
+	Chiến lược và kế hoạch Marketing
+	Xây dựng chiến lược IMC
+	5
+	Marketing số
+	Kênh quảng cáo/truyền thông chính
+	6
+	Tâm lý và hành vi khách hàng
+	Hiểu cách truyền thông tác động đến hành vi
+	7
+	Nghiên cứu Marketing
+	Đo lường hiệu quả truyền thông (Media/Campaign tracking)
+	8
+	Quản lý thương hiệu và nhượng quyền thương mại
+	Đảm bảo tính nhất quán của thông điệp
+	9
+	Quan hệ khách hàng trong kinh doanh
+	
+
+	10
+	Marketing căn bản
+	
+
+	11
+	Kinh doanh số
+	
+
+	12
+	Quản trị học
+	
+
+	13
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	
+
+	14
+	Cơ sở dữ liệu
+	
+
+	15
+	Lập dự án kinh doanh số
+	
+
+	16
+	Pháp luật điều chỉnh trong thương mại điện tử
+	Tuân thủ quy tắc quảng cáo
+	17
+	Đạo đức kinh doanh và trách nhiệm xã hội
+	Quảng cáo có đạo đức
+	18
+	Kinh tế vi mô
+	
+
+	19
+	Kinh tế vĩ mô
+	
+
+	20
+	Marketing dịch vụ
+	Truyền thông cho sản phẩm dịch vụ
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Sở hữu trí tuệ trong môi trường số
+	Bản quyền nội dung, hình ảnh
+	22
+	Phân tích dữ liệu kinh doanh
+	Phân tích hiệu suất truyền thông
+	23
+	Hệ thống thông tin marketing và khai thác CSDL lớn
+	
+
+	24
+	Đổi mới sáng tạo trong kinh doanh số
+	
+
+	25
+	Quản trị tài chính
+	
+
+	26
+	Marketing quốc tế
+	
+
+	27
+	Quản trị phân phối và phát triển kênh bán số
+	
+
+	28
+	FDMAP2: Dự án thực chiến nghiên cứu thị trường
+	
+
+	29
+	Nguyên lý kế toán
+	
+
+	30
+	Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+	
+
+	
+
+📊 Bảng tổng hợp Học phần Chuyên môn (CORE 20 + ELECTIVE 10)
+1. Chuyên viên Tài chính Doanh nghiệp (Corporate Finance Specialist)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Tài chính doanh nghiệp
+	Cốt lõi: Quản lý vốn, đầu tư, tài trợ, cổ tức.
+	2
+	Phân tích báo cáo tài chính
+	Đánh giá hiệu quả hoạt động và cấu trúc vốn.
+	3
+	Định giá doanh nghiệp
+	Xác định giá trị doanh nghiệp phục vụ M&A, huy động vốn.
+	4
+	Tài trợ dự án
+	Kỹ năng lập kế hoạch và huy động vốn cho dự án lớn.
+	5
+	Lý thuyết tài chính
+	Nền tảng về chi phí vốn, rủi ro và lợi suất.
+	6
+	Nguyên lý Kế toán
+	Nền tảng ghi nhận giao dịch.
+	7
+	Kế toán tài chính
+	Chi tiết hơn về lập Báo cáo tài chính.
+	8
+	Thuế
+	Tối ưu hóa nghĩa vụ thuế của doanh nghiệp.
+	9
+	Kiểm toán căn bản
+	Đánh giá độ tin cậy của Báo cáo tài chính.
+	10
+	Đầu tư tài chính
+	Đánh giá cơ hội đầu tư và sử dụng vốn nhàn rỗi.
+	11
+	Tài chính quốc tế
+	Quản lý tài chính đối với các công ty đa quốc gia.
+	12
+	Thống kê cho kinh tế và kinh doanh
+	Phân tích dữ liệu kinh doanh.
+	13
+	Kinh tế lượng
+	Mô hình hóa và dự báo các biến số tài chính.
+	14
+	Kinh tế vi mô
+	Phân tích ngành và chiến lược giá.
+	15
+	Kinh tế vĩ mô
+	Phân tích môi trường kinh tế ảnh hưởng đến doanh nghiệp.
+	16
+	Phân tích và dự báo rủi ro tài chính
+	Đánh giá và quản lý rủi ro thanh khoản, hoạt động.
+	17
+	Phương pháp lượng cho tài chính
+	Ứng dụng mô hình toán/định lượng.
+	18
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	Quản trị công ty và đạo đức tài chính.
+	19
+	Hệ thống thông tin quản lý
+	Quản lý dữ liệu và hệ thống báo cáo.
+	20
+	Quản trị học
+	Kỹ năng lập kế hoạch, tổ chức bộ phận tài chính.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Tài chính phái sinh
+	Công cụ phòng ngừa rủi ro (Hedging) cho doanh nghiệp.
+	22
+	Tài chính hành vi
+	Hiểu các sai lệch tâm lý trong quyết định kinh doanh.
+	23
+	Thị trường chứng khoán
+	Kênh huy động vốn (phát hành cổ phiếu/trái phiếu).
+	24
+	Thị trường tài chính và các định chế tài chính
+	
+
+	25
+	Nghiệp vụ ngân hàng thương mại
+	Nắm vững sản phẩm tín dụng và dịch vụ ngân hàng.
+	26
+	Quản trị danh mục đầu tư
+	
+
+	27
+	Pháp luật tài chính – ngân hàng
+	
+
+	28
+	Kinh tế học tài chính
+	
+
+	29
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	
+
+	30
+	Thương mại quốc tế
+	
+
+	________________
+
+
+2. Kế toán Doanh nghiệp (Accountant)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Nguyên lý Kế toán
+	Nền tảng cốt lõi của nghề kế toán.
+	2
+	Kế toán tài chính
+	Kỹ năng lập báo cáo tài chính.
+	3
+	Kế toán ngân hàng
+	Hạch toán các nghiệp vụ tài chính.
+	4
+	Thuế
+	Kỹ năng hạch toán và khai báo thuế.
+	5
+	Kiểm toán căn bản
+	Kỹ năng kiểm tra, kiểm soát nội bộ.
+	6
+	Phân tích báo cáo tài chính
+	Đọc hiểu và phân tích dữ liệu kế toán.
+	7
+	Thống kê cho kinh tế và kinh doanh
+	Xử lý dữ liệu kế toán.
+	8
+	Kinh tế lượng
+	
+
+	9
+	Hệ thống thông tin quản lý
+	Quản lý hệ thống phần mềm kế toán.
+	10
+	Lý thuyết tài chính
+	Hiểu mối quan hệ giữa Kế toán và Tài chính.
+	11
+	Tài chính doanh nghiệp
+	Hiểu các quyết định tài chính ảnh hưởng đến hạch toán.
+	12
+	Quản trị học
+	
+
+	13
+	Kinh tế vi mô
+	
+
+	14
+	Kinh tế vĩ mô
+	
+
+	15
+	Pháp luật tài chính – ngân hàng
+	
+
+	16
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	Đạo đức nghề kế toán.
+	17
+	Đầu tư tài chính
+	Hạch toán các khoản đầu tư.
+	18
+	Định giá doanh nghiệp
+	
+
+	19
+	Tài trợ dự án
+	Hạch toán các dự án.
+	20
+	Tài chính quốc tế
+	Kế toán giao dịch quốc tế.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Nghiệp vụ ngân hàng thương mại
+	Hạch toán nghiệp vụ ngân hàng.
+	22
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	Số hóa quy trình kế toán.
+	23
+	Thị trường tài chính và các định chế tài chính
+	
+
+	24
+	Phân tích và dự báo rủi ro tài chính
+	
+
+	25
+	Kinh tế học tài chính
+	
+
+	26
+	Phương pháp lượng cho tài chính
+	
+
+	27
+	Quản trị ngân hàng thương mại
+	
+
+	28
+	Thương mại quốc tế
+	
+
+	29
+	Tài chính công
+	
+
+	30
+	Tài chính phái sinh
+	
+
+	________________
+
+
+3. Chuyên viên Phân tích Đầu tư (Investment Analyst)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Đầu tư tài chính
+	Cốt lõi: Phân tích tài sản, cổ phiếu, trái phiếu.
+	2
+	Thị trường chứng khoán
+	Hiểu về hoạt động của thị trường vốn.
+	3
+	Phân tích đầu tư nâng cao
+	Kỹ thuật định giá chuyên sâu.
+	4
+	Quản trị danh mục đầu tư
+	Xây dựng, quản lý và tối ưu hóa danh mục (Portfolio).
+	5
+	Tài chính phái sinh
+	Sử dụng Options, Futures để đầu cơ hoặc phòng ngừa rủi ro.
+	6
+	Phân tích báo cáo tài chính
+	Phân tích cơ bản (Fundamental Analysis).
+	7
+	Định giá doanh nghiệp
+	Định giá cổ phiếu cho mục đích đầu tư.
+	8
+	Kinh tế học tài chính
+	Nghiên cứu mô hình định giá tài sản (CAPM, APT).
+	9
+	Lý thuyết tài chính
+	
+
+	10
+	Tài chính doanh nghiệp
+	
+
+	11
+	Kinh tế lượng
+	Dự báo giá tài sản/thị trường.
+	12
+	Thống kê cho kinh tế và kinh doanh
+	
+
+	13
+	Tài chính quốc tế
+	Đầu tư quốc tế và rủi ro tỷ giá.
+	14
+	Kinh tế vĩ mô
+	Phân tích Top-down.
+	15
+	Thị trường tài chính và các định chế tài chính
+	
+
+	16
+	Phương pháp lượng cho tài chính
+	
+
+	17
+	Tài chính hành vi
+	Hiểu các sai lệch tâm lý nhà đầu tư.
+	18
+	Phân tích và dự báo rủi ro tài chính
+	
+
+	19
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	Đạo đức nghề nghiệp (CFA).
+	20
+	Nguyên lý Kế toán
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Kế toán tài chính
+	
+
+	22
+	Kinh tế vi mô
+	
+
+	23
+	Hệ thống thông tin quản lý
+	
+
+	24
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	
+
+	25
+	Thuế
+	
+
+	26
+	Nghiệp vụ thị trường mở và kinh doanh ngoại hối
+	
+
+	27
+	Kiểm toán căn bản
+	
+
+	28
+	Marketing dịch vụ tài chính
+	
+
+	29
+	Tài trợ dự án
+	
+
+	30
+	Quản trị rủi ro trong kinh doanh quốc tế
+	
+
+	________________
+
+
+4. Chuyên viên Quản lý Rủi ro Tài chính (Financial Risk Analyst)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Phân tích và dự báo rủi ro tài chính
+	Cốt lõi: Rủi ro tín dụng, thị trường, vận hành.
+	2
+	Quản trị rủi ro trong kinh doanh quốc tế
+	Khung lý thuyết về rủi ro.
+	3
+	Tài chính phái sinh
+	Công cụ phòng ngừa rủi ro (Hedging).
+	4
+	Kinh tế lượng
+	Mô hình hóa và đo lường rủi ro (VaR, GARCH).
+	5
+	Phương pháp lượng cho tài chính
+	Ứng dụng mô hình toán nâng cao.
+	6
+	Thống kê cho kinh tế và kinh doanh
+	
+
+	7
+	Thẩm định tín dụng
+	Quản lý rủi ro tín dụng.
+	8
+	Quản trị ngân hàng thương mại
+	Quản lý rủi ro thanh khoản và vốn.
+	9
+	Phân tích báo cáo tài chính
+	Đánh giá rủi ro tài chính doanh nghiệp.
+	10
+	Tài chính quốc tế
+	Quản lý rủi ro tỷ giá.
+	11
+	Kinh tế vĩ mô
+	Phân tích rủi ro hệ thống.
+	12
+	Lý thuyết tài chính
+	
+
+	13
+	Thị trường tài chính và các định chế tài chính
+	
+
+	14
+	Kiểm toán căn bản
+	Kiểm soát nội bộ và rủi ro vận hành.
+	15
+	Pháp luật tài chính – ngân hàng
+	Rủi ro tuân thủ (Compliance Risk).
+	16
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	Ứng dụng công nghệ trong đo lường rủi ro.
+	17
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	18
+	Hệ thống thông tin quản lý
+	
+
+	19
+	Tài chính doanh nghiệp
+	
+
+	20
+	Quản trị danh mục đầu tư
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Đầu tư tài chính
+	
+
+	22
+	Nghiệp vụ ngân hàng thương mại
+	
+
+	23
+	Nguyên lý Kế toán
+	
+
+	24
+	Kinh tế vi mô
+	
+
+	25
+	Thuế
+	
+
+	26
+	Tài chính hành vi
+	
+
+	27
+	Kinh tế học tài chính
+	
+
+	28
+	Thị trường chứng khoán
+	
+
+	29
+	Tài trợ dự án
+	
+
+	30
+	Định giá doanh nghiệp
+	
+
+	________________
+
+
+5. Cố vấn Tài chính Doanh nghiệp (Corporate Finance Consultant)
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Tài chính doanh nghiệp
+	Cốt lõi: Tư vấn về cấu trúc vốn, tài trợ, đầu tư.
+	2
+	Phân tích báo cáo tài chính
+	Đánh giá tình hình tài chính khách hàng.
+	3
+	Định giá doanh nghiệp
+	Kỹ năng thiết yếu cho tư vấn M&A, định giá công ty.
+	4
+	Tài trợ dự án
+	Tư vấn lập kế hoạch và huy động vốn.
+	5
+	Phân tích đầu tư nâng cao
+	Tư vấn đầu tư và tái cấu trúc danh mục.
+	6
+	Lý thuyết tài chính
+	
+
+	7
+	Nguyên lý Kế toán
+	
+
+	8
+	Kiểm toán căn bản
+	Tư vấn về kiểm soát nội bộ.
+	9
+	Thuế
+	Tư vấn tối ưu hóa thuế.
+	10
+	Tài chính quốc tế
+	Tư vấn cho các giao dịch xuyên biên giới.
+	11
+	Kinh tế vĩ mô
+	Phân tích bối cảnh và rủi ro vĩ mô.
+	12
+	Quản trị học
+	Kỹ năng quản lý dự án tư vấn.
+	13
+	Kinh tế lượng
+	
+
+	14
+	Phân tích và dự báo rủi ro tài chính
+	Tư vấn quản lý rủi ro.
+	15
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	Cốt lõi của tư vấn.
+	16
+	Thị trường chứng khoán
+	Tư vấn huy động vốn trên thị trường chứng khoán.
+	17
+	Pháp luật tài chính – ngân hàng
+	
+
+	18
+	Tài chính phái sinh
+	Tư vấn phòng ngừa rủi ro.
+	19
+	Hệ thống thông tin quản lý
+	Tư vấn về hệ thống báo cáo quản trị.
+	20
+	Thống kê cho kinh tế và kinh doanh
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quản trị danh mục đầu tư
+	
+
+	22
+	Kinh tế vi mô
+	
+
+	23
+	Nghiệp vụ ngân hàng thương mại
+	
+
+	24
+	Thẩm định tín dụng
+	
+
+	25
+	Kinh tế học tài chính
+	
+
+	26
+	Marketing dịch vụ tài chính
+	Kỹ năng bán giải pháp tư vấn.
+	27
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	
+
+	28
+	Thị trường tài chính và các định chế tài chính
+	
+
+	29
+	Kế toán tài chính
+	
+
+	30
+	Quản trị rủi ro trong kinh doanh quốc tế
+	
+
+	6. Financial Technology Specialist (Chuyên viên công nghệ tài chính)
+
+
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	Cốt lõi của Fintech.
+	2
+	Hệ thống thông tin quản lý
+	Quản lý hệ thống thông tin tài chính.
+	3
+	Nghiệp vụ ngân hàng thương mại
+	Số hóa các nghiệp vụ ngân hàng.
+	4
+	Kinh tế lượng
+	Xây dựng mô hình (ví dụ: chấm điểm tín dụng).
+	5
+	Thống kê cho kinh tế và kinh doanh
+	
+
+	6
+	Phương pháp lượng cho tài chính
+	
+
+	7
+	Phân tích và dự báo rủi ro tài chính
+	Mô hình hóa rủi ro tự động.
+	8
+	Lý thuyết tài chính
+	
+
+	9
+	Thị trường tài chính và các định chế tài chính
+	Hiểu về các nền tảng giao dịch.
+	10
+	Tài chính doanh nghiệp
+	
+
+	11
+	Đầu tư tài chính
+	
+
+	12
+	Nghiệp vụ thị trường mở và kinh doanh ngoại hối
+	Số hóa giao dịch ngoại hối.
+	13
+	Phân tích báo cáo tài chính
+	
+
+	14
+	Tài chính phái sinh
+	
+
+	15
+	Kinh tế vi mô
+	
+
+	16
+	Kinh tế vĩ mô
+	
+
+	17
+	Marketing dịch vụ tài chính
+	Tiếp thị các sản phẩm Fintech.
+	18
+	Quản trị học
+	
+
+	19
+	Quản trị rủi ro trong kinh doanh quốc tế
+	
+
+	20
+	Pháp luật tài chính – ngân hàng
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Tài trợ dự án
+	
+
+	22
+	Định giá doanh nghiệp
+	
+
+	23
+	Kiểm toán căn bản
+	
+
+	24
+	Tài chính hành vi
+	
+
+	25
+	Tài chính quốc tế
+	
+
+	26
+	Quản trị danh mục đầu tư
+	
+
+	27
+	Thẩm định tín dụng
+	
+
+	28
+	Thuế
+	
+
+	29
+	Nguyên lý Kế toán
+	
+
+	30
+	Kế toán tài chính
+	
+
+	 
+7. Securities Broker/ Securities Specialist (Chuyên viên môi giới/ phân tích chứng khoán)
+
+
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Thị trường chứng khoán
+	Cốt lõi của nghiệp vụ chứng khoán.
+	2
+	Đầu tư tài chính
+	Kỹ năng phân tích và tư vấn đầu tư.
+	3
+	Phân tích đầu tư nâng cao
+	
+
+	4
+	Quản trị danh mục đầu tư
+	Tư vấn xây dựng danh mục.
+	5
+	Phân tích báo cáo tài chính
+	Phân tích cơ bản.
+	6
+	Tài chính phái sinh
+	Giao dịch các công cụ phái sinh.
+	7
+	Tài chính doanh nghiệp
+	Phân tích cấu trúc tài chính và định giá.
+	8
+	Lý thuyết tài chính
+	
+
+	9
+	Kinh tế học tài chính
+	
+
+	10
+	Tài chính hành vi
+	Hiểu tâm lý giao dịch.
+	11
+	Kinh tế lượng
+	
+
+	12
+	Thống kê cho kinh tế và kinh doanh
+	
+
+	13
+	Kinh tế vĩ mô
+	
+
+	14
+	Thị trường tài chính và các định chế tài chính
+	
+
+	15
+	Nguyên lý Kế toán
+	
+
+	16
+	Kế toán tài chính
+	
+
+	17
+	Phương pháp lượng cho tài chính
+	
+
+	18
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	
+
+	19
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	20
+	Nghiệp vụ thị trường mở và kinh doanh ngoại hối
+	
+
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Quản trị học
+	
+
+	22
+	Marketing dịch vụ tài chính
+	Kỹ năng tìm kiếm khách hàng.
+	23
+	Kinh tế vi mô
+	
+
+	24
+	Hệ thống thông tin quản lý
+	
+
+	25
+	Tài chính quốc tế
+	
+
+	26
+	Pháp luật tài chính – ngân hàng
+	
+
+	27
+	Thuế
+	
+
+	28
+	Định giá doanh nghiệp
+	
+
+	29
+	Kiểm toán căn bản
+	
+
+	30
+	Tài trợ dự án
+	
+
+	
+
+🚚 WORLD 5 — LOGISTICS & SUPPLY CHAIN
+Áp dụng cho các hướng nghề:
+   * Logistics officer
+
+   * Supply chain analyst
+
+   * Demand planning / Inventory analyst
+
+   * Freight forwarder
+
+   * Trade operations
+
+   * Import–Export specialist
+
+   * Procurement
+
+   * Warehouse/Distribution planner
+
+________________
+
+
+1. Trade & Operations (Logistics Officer, Trade Operations, Import–Export Specialist)
+Nhóm nghề này tập trung vào việc thực thi các quy trình giao nhận, vận chuyển, và thủ tục hải quan cho hàng hóa.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	Cốt lõi: Cung cấp kỹ năng thực hành, xử lý bộ chứng từ XNK, áp dụng Incoterms và thực hiện các bước giao nhận hàng hóa.
+	2
+	Nghiệp vụ hải quan
+	Thiết yếu: Đảm bảo khả năng khai báo, thông quan hàng hóa, hiểu rõ biểu thuế, mã HS và quy định tuân thủ pháp lý.
+	3
+	Logistics và chuỗi cung ứng quốc tế
+	Nền tảng: Hiểu rõ vai trò của Logistics và SCM trong thương mại toàn cầu, là khung lý thuyết cho mọi hoạt động XNK.
+	4
+	Luật thương mại quốc tế
+	Tuân thủ: Nắm vững các quy định về hợp đồng ngoại thương, Incoterms, tranh chấp thương mại, giảm thiểu rủi ro pháp lý.
+	5
+	Thanh toán quốc tế
+	Tài chính: Xử lý các phương thức thanh toán L/C, T/T, D/P, đảm bảo giao dịch XNK được thực hiện an toàn và hiệu quả.
+	6
+	Quản lý vận tải quốc tế
+	Điều phối: Kỹ năng lựa chọn phương tiện, tuyến đường, tối ưu chi phí và thời gian cho các lô hàng.
+	7
+	Giao nhận và vận tải đa phương thức
+	Nghiệp vụ: Tổ chức và điều phối quy trình vận chuyển kết hợp nhiều phương thức (biển, hàng không, đường bộ) cho giao nhận.
+	8
+	Vận tải biển và hàng không
+	Chuyên sâu: Kiến thức về cước phí, lịch trình, quy định hàng hóa (Dangerous Goods) trên hai phương thức vận tải chính.
+	9
+	Quản lý kho hàng và phân phối
+	Vận hành: Quản lý hàng hóa tại kho cảng (CFS/kho ngoại quan) và tổ chức phân phối chặng cuối (last-mile).
+	10
+	Quản trị Logistics và Chuỗi cung ứng
+	Quản lý: Nắm vững các hoạt động tối ưu hóa chi phí và hiệu suất của toàn bộ chuỗi XNK.
+	11
+	Quản lý tồn kho
+	Kiểm soát: Giúp kiểm soát lượng hàng tồn trong quá trình vận chuyển, tránh tắc nghẽn hoặc thiếu hụt.
+	12
+	Kế toán quản trị
+	Chi phí: Theo dõi và tính toán chi phí Logistics (giá thành XNK) để tối ưu hóa lợi nhuận.
+	13
+	Nguyên lý Kế toán
+	Cơ sở: Nền tảng ghi nhận các giao dịch tài chính XNK.
+	14
+	Thống kê trong kinh doanh
+	Đo lường: Phân tích hiệu suất vận hành (KPIs) và đưa ra quyết định dựa trên dữ liệu.
+	15
+	Pháp luật kinh doanh quốc tế
+	Pháp lý: Hiểu các quy tắc luật pháp quốc tế ảnh hưởng đến giao dịch.
+	16
+	Quản lý sản xuất và vận hành
+	Vận hành: Hiểu được quy trình sản xuất (nếu là công ty sản xuất) để điều chỉnh kế hoạch giao hàng.
+	17
+	Quản trị vận hành
+	Hiệu suất: Tối ưu hóa các quy trình làm việc hằng ngày trong phòng ban Logistics/XNK.
+	18
+	Quản lý chất lượng
+	Tiêu chuẩn: Đảm bảo hàng hóa tuân thủ tiêu chuẩn chất lượng khi giao nhận.
+	19
+	E-Logistics
+	Công nghệ: Ứng dụng các hệ thống quản lý vận tải (TMS) và theo dõi hàng hóa (Tracking).
+	20
+	Quản trị học
+	Lãnh đạo: Kỹ năng quản lý nhân sự, tổ chức công việc trong bộ phận Logistics.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Vận tải đa phương thức quốc tế
+	Bổ trợ: Cần thiết cho các lô hàng phức tạp, cần kết hợp nhiều chặng vận tải.
+	22
+	Kinh tế vi mô
+	Môi trường: Phân tích chi phí và cấu trúc thị trường (cước phí, giá nguyên liệu).
+	23
+	Kinh tế vĩ mô
+	Tổng quan: Đánh giá tác động của chính sách thương mại, tỷ giá hối đoái lên hoạt động XNK.
+	24
+	Quản lý mua hàng toàn cầu
+	Cung ứng: Hiểu nghiệp vụ mua hàng để phối hợp lịch trình nhận hàng/giao hàng.
+	25
+	Nguyên lý Marketing
+	Quan hệ: Xây dựng và duy trì quan hệ tốt với khách hàng (người bán/người mua, đối tác vận tải).
+	26
+	Hợp đồng trong quản lý chuỗi cung ứng
+	Pháp lý nâng cao: Tập trung vào các điều khoản hợp đồng SCM chuyên biệt.
+	27
+	Quản lý dự án quốc tế
+	Kỹ năng: Áp dụng quản lý dự án cho các lô hàng lớn hoặc các dự án XNK đặc thù.
+	28
+	Thương mại điện tử
+	Xu hướng: Vận dụng trong Logistics cho TMĐT xuyên biên giới (Cross-border E-commerce).
+	29
+	Chiến lược quản lý chuỗi cung ứng toàn cầu
+	Cái nhìn chiến lược: Nâng cao hiểu biết về tối ưu hóa mạng lưới XNK.
+	30
+	Thương hiệu trong kinh doanh quốc tế
+	Bổ trợ: Giúp củng cố hình ảnh công ty giao nhận hoặc XNK.
+	________________
+
+
+2. Transportation & Freight (Freight Forwarder)
+Nghề này đòi hỏi kiến thức sâu rộng về vận tải, cước phí và khả năng tổ chức vận chuyển hàng hóa qua nhiều phương tiện.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Giao nhận và vận tải đa phương thức
+	Cốt lõi: Kỹ năng tổ chức, sắp xếp, và điều hành các lô hàng đi qua nhiều chặng và phương thức vận tải.
+	2
+	Quản lý vận tải quốc tế
+	Chuyên môn: Kỹ thuật tính toán, quản lý không gian (Booking) và lên kế hoạch lịch trình vận chuyển.
+	3
+	Vận tải biển và hàng không
+	Thiết yếu: Kiến thức chi tiết về nghiệp vụ hàng lẻ (LCL/Air Cargo), hàng nguyên container (FCL) và các quy định ngành.
+	4
+	Vận tải đa phương thức quốc tế
+	Kết hợp: Kỹ năng tạo ra các giải pháp vận chuyển tích hợp (road-rail-sea-air) để tối ưu hóa thời gian/chi phí.
+	5
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	Chứng từ: Xử lý các chứng từ vận tải (B/L, AWB) và hồ sơ đi kèm.
+	6
+	Nghiệp vụ hải quan
+	Thông quan: Đảm bảo hàng hóa của khách hàng được thông quan nhanh chóng.
+	7
+	Luật thương mại quốc tế
+	Pháp lý: Hiểu rõ trách nhiệm của Forwarder theo Incoterms và luật vận tải.
+	8
+	Kế toán quản trị
+	Giá cước: Tính toán chính xác giá cước, phụ phí và lợi nhuận biên cho dịch vụ.
+	9
+	E-Logistics
+	Công nghệ: Sử dụng các phần mềm Quản lý Vận tải (TMS) và cổng thông tin điện tử (e-Port).
+	10
+	Logistics và chuỗi cung ứng quốc tế
+	Khung cảnh: Đặt dịch vụ vận tải vào bối cảnh chuỗi cung ứng rộng hơn.
+	11
+	Quản trị Logistics và Chuỗi cung ứng
+	Hiệu suất: Quản lý và đo lường hiệu quả của dịch vụ vận tải.
+	12
+	Thống kê trong kinh doanh
+	Phân tích: Đánh giá xu hướng cước phí, dự báo nhu cầu vận chuyển.
+	13
+	Kinh tế vĩ mô
+	Thị trường: Phân tích ảnh hưởng của kinh tế toàn cầu lên thị trường vận tải biển và hàng không.
+	14
+	Quản trị học
+	Quản lý: Kỹ năng quản lý đối tác vận tải (Carrier Management).
+	15
+	Thanh toán quốc tế
+	Thủ tục: Xử lý thanh toán cho Carrier và thu tiền từ khách hàng XNK.
+	16
+	Hợp đồng trong quản lý chuỗi cung ứng
+	Đàm phán: Nâng cao kỹ năng đàm phán hợp đồng với các hãng tàu/hãng hàng không.
+	17
+	Quản lý dự án quốc tế
+	Chuyên biệt: Quản lý các dự án vận chuyển hàng siêu trường, siêu trọng (Project Cargo).
+	18
+	Quản lý kho hàng và phân phối
+	Gia tăng: Cung cấp các dịch vụ kho bãi, gom hàng, và phân phối bổ sung.
+	19
+	Pháp luật kinh doanh quốc tế
+	Tuân thủ: Đảm bảo các hoạt động vận tải tuân thủ luật pháp.
+	20
+	Nguyên lý Marketing
+	Bán hàng: Kỹ năng bán dịch vụ giao nhận và xây dựng quan hệ khách hàng.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quản trị vận hành
+	Tối ưu: Nâng cao hiệu suất hoạt động nghiệp vụ hằng ngày.
+	22
+	Quản lý tồn kho
+	
+
+	23
+	Quản lý chất lượng
+	
+
+	24
+	Chiến lược quản lý chuỗi cung ứng toàn cầu
+	
+
+	25
+	Quản lý sản xuất và vận hành
+	
+
+	26
+	Quản lý mua hàng toàn cầu
+	
+
+	27
+	Kinh tế vi mô
+	
+
+	28
+	Nguyên lý Kế toán
+	
+
+	29
+	Thương mại điện tử
+	
+
+	30
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	________________
+
+
+3. Planning & Analytics (Supply Chain Analyst, Demand Planning / Inventory Analyst, Warehouse/Distribution Planner)
+Các nghề này tập trung vào khả năng phân tích dữ liệu, dự báo và lên kế hoạch tối ưu hóa các dòng chảy trong SCM.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản lý tồn kho
+	Cốt lõi: Phương pháp dự báo nhu cầu (Demand Forecasting) và tối ưu hóa mức tồn kho an toàn (Safety Stock).
+	2
+	Quản trị Logistics và Chuỗi cung ứng
+	Khung chiến lược: Lên kế hoạch tích hợp các thành phần của chuỗi (Mua hàng, Sản xuất, Kho bãi, Vận chuyển).
+	3
+	Thống kê trong kinh doanh
+	Phân tích: Kỹ năng xử lý dữ liệu lớn, áp dụng các mô hình thống kê cho dự báo.
+	4
+	E-Logistics
+	Công cụ: Sử dụng các hệ thống ERP, WMS, SCM để thu thập, phân tích và trực quan hóa dữ liệu chuỗi cung ứng.
+	5
+	Chiến lược quản lý chuỗi cung ứng toàn cầu
+	Tầm nhìn: Thiết kế và tối ưu hóa mạng lưới chuỗi cung ứng (Network Design).
+	6
+	Quản lý kho hàng và phân phối
+	Lập kế hoạch: Thiết kế layout kho, lập kế hoạch bố trí hàng hóa và phân phối chặng cuối.
+	7
+	Quản lý sản xuất và vận hành
+	Cân đối: Hiểu quy trình sản xuất (MPR, JIT) để cân đối nguồn cung và nhu cầu.
+	8
+	Kế toán quản trị
+	Hiệu quả: Phân tích chi phí chuỗi cung ứng, xác định các điểm lãng phí (Cost of Poor Quality, Inventory Cost).
+	9
+	Quản lý chất lượng
+	Tiêu chuẩn: Phân tích các lỗi chất lượng để cải thiện quy trình SCM.
+	10
+	Quản trị vận hành
+	Tối ưu: Tối ưu hóa hiệu suất quy trình (Operational Efficiency).
+	11
+	Logistics và chuỗi cung ứng quốc tế
+	Khung tham chiếu:
+	12
+	Quản lý dự án quốc tế
+	Cải tiến: Quản lý các dự án cải tiến hiệu suất chuỗi cung ứng (Lean/Six Sigma).
+	13
+	Quản lý vận tải quốc tế
+	Dữ liệu: Phân tích dữ liệu vận tải để lập kế hoạch (Routing Optimization).
+	14
+	Kinh tế vi mô
+	Cạnh tranh: Phân tích các yếu tố thị trường ảnh hưởng đến chi phí và giá.
+	15
+	Kinh tế vĩ mô
+	Môi trường: Đánh giá các yếu tố kinh tế (tăng trưởng, lạm phát) ảnh hưởng đến nhu cầu tiêu thụ.
+	16
+	Quản lý mua hàng toàn cầu
+	Phối hợp: Lập kế hoạch mua hàng dựa trên dự báo nhu cầu.
+	17
+	Quản trị học
+	Quản lý: Kỹ năng tổ chức và làm việc nhóm trong môi trường đa chức năng (S&OP process).
+	18
+	Nguyên lý Kế toán
+	
+
+	19
+	Thương mại điện tử
+	Kênh bán hàng: Dự báo nhu cầu từ các kênh bán hàng điện tử.
+	20
+	Hợp đồng trong quản lý chuỗi cung ứng
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	
+
+	22
+	Giao nhận và vận tải đa phương thức
+	
+
+	23
+	Nghiệp vụ hải quan
+	
+
+	24
+	Luật thương mại quốc tế
+	
+
+	25
+	Thanh toán quốc tế
+	
+
+	26
+	Vận tải biển và hàng không
+	
+
+	27
+	Vận tải đa phương thức quốc tế
+	
+
+	28
+	Nguyên lý Marketing
+	
+
+	29
+	Pháp luật kinh doanh quốc tế
+	
+
+	30
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	________________
+
+
+4. Sourcing & Purchasing (Procurement)
+Vị trí này đòi hỏi kỹ năng đàm phán, quản lý nhà cung cấp và phân tích chi phí để tìm nguồn hàng hóa, dịch vụ tối ưu.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản lý mua hàng toàn cầu
+	Cốt lõi: Phương pháp tìm nguồn (Sourcing), đàm phán giá cả và quản lý quan hệ nhà cung cấp (SRM).
+	2
+	Hợp đồng trong quản lý chuỗi cung ứng
+	Pháp lý: Kỹ năng soạn thảo, đánh giá và đàm phán các điều khoản hợp đồng mua sắm.
+	3
+	Kế toán quản trị
+	Chi phí: Phân tích chi phí toàn bộ (TCO - Total Cost of Ownership) để đánh giá giá trị thực của giao dịch mua.
+	4
+	Quản lý chất lượng
+	Đánh giá: Lập tiêu chí và đánh giá khả năng của nhà cung cấp, đảm bảo chất lượng đầu vào.
+	5
+	Nguyên lý Marketing
+	Đàm phán: Áp dụng các nguyên tắc Marketing ngược (Reverse Marketing) để đàm phán với nhà cung cấp.
+	6
+	Quản trị Logistics và Chuỗi cung ứng
+	Tích hợp: Hiểu vai trò của mua hàng trong SCM và tối ưu hóa chi phí Logistics liên quan đến mua hàng.
+	7
+	Quản lý tồn kho
+	Duy trì: Đảm bảo lượng tồn kho tối ưu thông qua các quyết định mua hàng đúng lúc, đúng số lượng.
+	8
+	Logistics và chuỗi cung ứng quốc tế
+	Toàn cầu: Hiểu về việc tìm nguồn hàng hóa từ các thị trường quốc tế (Global Sourcing).
+	9
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	Mua hàng quốc tế: Xử lý chứng từ cho các giao dịch mua hàng từ nước ngoài.
+	10
+	Luật thương mại quốc tế
+	Bảo vệ: Đảm bảo hợp đồng mua hàng bảo vệ quyền lợi pháp lý của công ty.
+	11
+	Thanh toán quốc tế
+	Thủ tục: Thực hiện thanh toán an toàn cho nhà cung cấp nước ngoài.
+	12
+	Kinh tế vi mô
+	Thị trường: Phân tích cạnh tranh và cấu trúc thị trường của các ngành cung ứng nguyên vật liệu.
+	13
+	Quản lý sản xuất và vận hành
+	Phối hợp: Đảm bảo nguồn cung đáp ứng kế hoạch sản xuất (Just-in-Time, MRP).
+	14
+	Thống kê trong kinh doanh
+	Phân tích: Đánh giá hiệu suất nhà cung cấp (Supplier Performance KPIs).
+	15
+	Quản trị học
+	Tổ chức: Quản lý đội ngũ mua hàng và các quy trình nội bộ.
+	16
+	Quản lý dự án quốc tế
+	Dự án: Quản lý các dự án mua sắm tài sản cố định hoặc hệ thống phức tạp.
+	17
+	Chiến lược quản lý chuỗi cung ứng toàn cầu
+	Định hướng: Thiết lập chiến lược tìm nguồn cung ứng phù hợp với mục tiêu kinh doanh.
+	18
+	Quản trị vận hành
+	
+
+	19
+	Nghiệp vụ hải quan
+	
+
+	20
+	Pháp luật kinh doanh quốc tế
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quản lý kho hàng và phân phối
+	
+
+	22
+	E-Logistics
+	
+
+	23
+	Quản lý vận tải quốc tế
+	
+
+	24
+	Giao nhận và vận tải đa phương thức
+	
+
+	25
+	Vận tải biển và hàng không
+	
+
+	26
+	Kinh tế vĩ mô
+	
+
+	27
+	Nguyên lý Kế toán
+	
+
+	28
+	Vận tải đa phương thức quốc tế
+	
+
+	29
+	Thương mại điện tử
+	
+
+	30
+	Thẩm định đầu tư quốc tế
+	
+
+	
+
+📊 WORLD 4 — DATA & BUSINESS ANALYSIS
+Áp dụng cho các hướng nghề:
+      * Business Analyst
+
+      * Data Analyst
+
+      * Risk Analyst
+
+      * Market Analyst
+
+      * Operations Analyst
+
+      * Product Data Specialist
+
+      * Supply Chain Analyst
+
+      * Marketing Analyst
+
+
+
+1. Business Intelligence & Data Analysis (Business Analyst, Data Analyst, Product Data Specialist)
+Nhóm này tập trung vào việc thu thập, làm sạch, phân tích dữ liệu, và chuyển hóa kết quả thành các quyết định kinh doanh hoặc yêu cầu nghiệp vụ (Business Requirements).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Phân tích dữ liệu kinh doanh
+	Cốt lõi: Áp dụng các phương pháp phân tích để giải quyết vấn đề kinh doanh, tạo ra các báo cáo quản trị.
+	2
+	Lập trình Python/R cho phân tích dữ liệu
+	Kỹ năng: Nền tảng lập trình để xử lý dữ liệu, mô hình hóa và tự động hóa quy trình phân tích.
+	3
+	Cơ sở dữ liệu
+	Nền tảng: Khai thác dữ liệu từ các hệ thống (SQL, Data Warehouse), thiết yếu cho DA/PDS.
+	4
+	Trực quan hóa dữ liệu
+	Truyền đạt: Kỹ năng trình bày kết quả phân tích (Dashboard, Report) bằng các công cụ như Tableau/Power BI.
+	5
+	Thống kê ứng dụng trong kinh tế và kinh doanh
+	Định lượng: Phân tích định lượng, kiểm định giả thuyết, nền tảng cho mọi phân tích dữ liệu.
+	6
+	Kinh tế lượng
+	Dự báo: Xây dựng mô hình hồi quy để dự báo các biến số kinh tế/kinh doanh.
+	7
+	Phân tích dữ liệu lớn
+	Chuyên sâu: Xử lý và phân tích các tập dữ liệu phi cấu trúc, Big Data.
+	8
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Tư duy: Xây dựng khung vấn đề nghiên cứu và thu thập dữ liệu khoa học.
+	9
+	Quản trị phát triển sản phẩm mới
+	Product Focus: Thiết yếu cho Product Data Specialist và Business Analyst làm việc với đội ngũ sản phẩm.
+	10
+	Hệ thống thông tin quản lý
+	IT-Business Bridge: Hiểu về kiến trúc hệ thống, rất quan trọng đối với Business Analyst.
+	11
+	Quản trị học
+	Nghiệp vụ: Kỹ năng quản lý dự án, tổ chức công việc phân tích.
+	12
+	Kế toán quản trị
+	Tài chính/Vận hành: Phân tích chi phí, hiệu suất hoạt động.
+	13
+	Phân tích báo cáo tài chính
+	Đánh giá: Đọc hiểu và phân tích sức khỏe tài chính của doanh nghiệp.
+	14
+	Kinh tế vi mô
+	Mô hình hóa: Phân tích hành vi người tiêu dùng và chiến lược giá.
+	15
+	Kinh tế vĩ mô
+	Bối cảnh: Phân tích môi trường kinh tế tác động đến quyết định kinh doanh.
+	16
+	Mô hình chuỗi thời gian trong kinh tế và kinh doanh
+	Dự báo: Mô hình hóa và dự báo các biến số theo thời gian (doanh số, giá cổ phiếu).
+	17
+	Khai phá dữ liệu
+	Insights: Sử dụng thuật toán để tìm ra các mẫu (patterns) ẩn trong dữ liệu.
+	18
+	Quản trị dự án quốc tế
+	Quản lý: Cần thiết cho BA khi triển khai các dự án công nghệ/chuyển đổi số.
+	19
+	Marketing số
+	Market Focus: Hiểu các chỉ số và dữ liệu từ kênh Digital, quan trọng cho PDS.
+	20
+	Phân tích dữ liệu Web
+	Product Focus: Phân tích dữ liệu hành vi người dùng trên website/app.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Học sâu và ứng dụng
+	Nâng cao: Ứng dụng AI/Machine Learning vào phân tích dữ liệu phức tạp.
+	22
+	Mô hình ngẫu nhiên trong Phân tích dữ liệu kinh doanh
+	Kỹ thuật: Áp dụng mô hình xác suất trong các bài toán dự báo rủi ro, tối ưu hóa.
+	23
+	Công nghệ tài chính và ứng dụng
+	Domain: Hiểu về công nghệ và dữ liệu trong lĩnh vực tài chính (Fintech).
+	24
+	Quản trị vận hành
+	Operational Focus: Phân tích hiệu suất quy trình hoạt động.
+	25
+	Nghiên cứu thị trường
+	Thu thập: Kỹ năng thu thập dữ liệu sơ cấp và thứ cấp từ thị trường.
+	26
+	Tài chính doanh nghiệp
+	
+
+	27
+	Quản lý tồn kho
+	
+
+	28
+	Kinh tế học tài chính
+	
+
+	29
+	Số hóa và chuyển đổi số trong kinh doanh
+	Chiến lược: Định hướng các dự án chuyển đổi số.
+	30
+	Quản lý vận tải quốc tế
+	
+
+	________________
+
+
+2. Financial Risk & Quantitative Analysis (Risk Analyst)
+Vị trí này đòi hỏi kiến thức chuyên sâu về tài chính, định lượng, mô hình hóa và đo lường rủi ro (tín dụng, thị trường, vận hành).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Phân tích và dự báo rủi ro tài chính
+	Cốt lõi: Phương pháp xác định, đo lường và quản lý các loại rủi ro tài chính (thanh khoản, tín dụng, thị trường).
+	2
+	Phương pháp lượng cho tài chính
+	Kỹ thuật: Áp dụng mô hình toán học, mô phỏng Monte Carlo, định lượng rủi ro.
+	3
+	Tài chính phái sinh
+	Công cụ: Sử dụng Options, Futures, Swaps để phòng ngừa rủi ro (Hedging) và đầu cơ.
+	4
+	Kinh tế lượng
+	Mô hình hóa: Xây dựng mô hình VaR (Value at Risk), GARCH để dự báo rủi ro thị trường.
+	5
+	Thống kê cho kinh tế và kinh doanh
+	Nền tảng: Phân tích phân phối xác suất và dữ liệu rủi ro.
+	6
+	Thẩm định tín dụng
+	Rủi ro tín dụng: Đánh giá rủi ro vỡ nợ của khách hàng vay.
+	7
+	Quản trị ngân hàng thương mại
+	Môi trường: Hiểu cấu trúc quản lý rủi ro trong tổ chức tài chính.
+	8
+	Quản trị rủi ro trong kinh doanh quốc tế
+	Khung lý thuyết: Các nguyên tắc chung về quản lý rủi ro toàn diện.
+	9
+	Phân tích báo cáo tài chính
+	Đánh giá: Phát hiện rủi ro từ các chỉ số tài chính của doanh nghiệp.
+	10
+	Kinh tế học tài chính
+	Lý thuyết: Nghiên cứu về rủi ro, lợi suất, và lý thuyết danh mục đầu tư (APT, CAPM).
+	11
+	Lý thuyết tài chính
+	Nền tảng: Mối quan hệ giữa rủi ro và chi phí vốn.
+	12
+	Tài chính quốc tế
+	Đặc thù: Quản lý rủi ro tỷ giá và rủi ro quốc gia.
+	13
+	Thị trường chứng khoán
+	Thị trường: Hiểu cơ chế hoạt động, thanh khoản và rủi ro thị trường.
+	14
+	Tài chính doanh nghiệp
+	Doanh nghiệp: Phân tích rủi ro hoạt động (Operational Risk) và rủi ro thanh khoản.
+	15
+	Kinh tế vĩ mô
+	Hệ thống: Phân tích các yếu tố vĩ mô gây ra rủi ro hệ thống (Systemic Risk).
+	16
+	Kiểm toán căn bản
+	Kiểm soát: Đánh giá và thiết kế hệ thống kiểm soát nội bộ.
+	17
+	Pháp luật tài chính – ngân hàng
+	Tuân thủ: Quản lý rủi ro tuân thủ (Compliance Risk).
+	18
+	Hệ thống thông tin quản lý
+	Công cụ: Quản lý dữ liệu và hệ thống báo cáo rủi ro.
+	19
+	Ứng dụng công nghệ trong tài chính-ngân hàng
+	Công nghệ: Ứng dụng công nghệ để đo lường và theo dõi rủi ro (RegTech).
+	20
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	Đạo đức: Đảm bảo tính minh bạch và đạo đức trong việc báo cáo rủi ro.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Định giá doanh nghiệp
+	
+
+	22
+	Quản trị danh mục đầu tư
+	
+
+	23
+	Đầu tư tài chính
+	
+
+	24
+	Tài trợ dự án
+	
+
+	25
+	Tài chính hành vi
+	
+
+	26
+	Thị trường tài chính và các định chế tài chính
+	
+
+	27
+	Kinh tế vi mô
+	
+
+	28
+	Kế toán tài chính
+	
+
+	29
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	30
+	Mô hình chuỗi thời gian trong kinh tế và kinh doanh
+	
+
+	________________
+
+
+3. Marketing & Market Analysis (Market Analyst, Marketing Analyst)
+Các nghề này sử dụng dữ liệu để hiểu hành vi khách hàng, đánh giá hiệu quả chiến dịch, phân tích xu hướng thị trường và xác định cơ hội phát triển.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Nghiên cứu thị trường
+	Cốt lõi: Phương pháp luận thu thập, phân tích dữ liệu thị trường để định vị và phân khúc.
+	2
+	Phân tích dữ liệu trong Marketing
+	Kỹ năng: Áp dụng mô hình định lượng để đánh giá hiệu suất (ROI, Lifetime Value, Churn Rate).
+	3
+	Hành vi khách hàng
+	Insights: Hiểu sâu về tâm lý và động lực mua hàng, nền tảng để phân tích định tính.
+	4
+	Marketing số
+	Digital Focus: Phân tích hiệu quả các kênh Digital (SEO, SEM, Social Media) và chỉ số tương tác.
+	5
+	Truyền thông Marketing số
+	Campaign Analysis: Đo lường và tối ưu hóa hiệu quả các chiến dịch truyền thông kỹ thuật số.
+	6
+	Phân tích dữ liệu Web
+	Chuyên sâu: Phân tích dữ liệu từ Google Analytics, hành vi click, conversion rate.
+	7
+	Thống kê trong kinh doanh
+	Định lượng: Phân tích thống kê và kiểm định A/B testing.
+	8
+	Kinh tế lượng
+	Dự báo: Xây dựng mô hình dự báo doanh số, nhu cầu thị trường.
+	9
+	Marketing chiến lược
+	Chiến lược: Phân tích SWOT, PESTEL để xác định vị thế cạnh tranh.
+	10
+	Nguyên lý Marketing
+	Nền tảng: Hiểu về 4Ps và quy trình Marketing cơ bản.
+	11
+	Quản lý thương hiệu và nhượng quyền thương mại
+	Brand Equity: Phân tích giá trị thương hiệu và sự nhận biết của khách hàng.
+	12
+	Quản trị phân phối và phát triển kênh bán số
+	Distribution: Phân tích hiệu suất và chi phí của các kênh bán hàng.
+	13
+	Kinh tế vi mô
+	Cạnh tranh: Phân tích cung cầu và chiến lược định giá.
+	14
+	Kinh tế vĩ mô
+	Xu hướng: Đánh giá xu hướng kinh tế ảnh hưởng đến thị trường mục tiêu.
+	15
+	Hệ thống thông tin quản lý
+	Dữ liệu: Hiểu về hệ thống CRM/MIS để truy xuất dữ liệu khách hàng.
+	16
+	Sáng tạo ý tưởng thiết kế và nội dung số
+	Content Analysis: Đánh giá hiệu quả của nội dung sáng tạo trong thu hút khách hàng.
+	17
+	Quản trị phát triển sản phẩm mới
+	Product-Market Fit: Phân tích thị trường để hỗ trợ quá trình R&D.
+	18
+	Quan hệ khách hàng trong kinh doanh
+	CRM: Phân tích dữ liệu để xây dựng chiến lược duy trì và phát triển khách hàng.
+	19
+	Phân tích dữ liệu lớn
+	Chuyên sâu: Xử lý dữ liệu tương tác lớn trên các nền tảng số.
+	20
+	Marketing quốc tế
+	Thị trường nước ngoài: Phân tích cơ hội và rủi ro thị trường toàn cầu.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	22
+	Quan hệ công chúng
+	
+
+	23
+	Marketing dịch vụ
+	
+
+	24
+	Số hóa và chuyển đổi số trong kinh doanh
+	
+
+	25
+	Tài chính doanh nghiệp
+	
+
+	26
+	Phân tích báo cáo tài chính
+	
+
+	27
+	Quản trị dự án quốc tế
+	
+
+	28
+	Thương mại điện tử
+	
+
+	29
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	30
+	Sở hữu trí tuệ trong môi trường số
+	
+
+	________________
+
+
+4. Supply Chain & Operations Analysis (Operations Analyst, Supply Chain Analyst)
+Nhóm này sử dụng phân tích dữ liệu để tối ưu hóa quy trình sản xuất, vận hành, quản lý tồn kho, vận tải và mua hàng.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản trị Logistics và Chuỗi cung ứng
+	Cốt lõi: Phân tích, thiết kế và tối ưu hóa toàn bộ mạng lưới chuỗi cung ứng.
+	2
+	Quản lý sản xuất và vận hành
+	Operations Core: Phân tích và cải tiến hiệu suất dây chuyền sản xuất (tối ưu hóa năng lực, lên lịch trình).
+	3
+	Quản lý tồn kho
+	Planning Core: Sử dụng mô hình dự báo và định lượng để tối ưu hóa mức tồn kho (Economic Order Quantity, Safety Stock).
+	4
+	Quản lý kho hàng và phân phối
+	Distribution: Phân tích chi phí và hiệu suất của hoạt động kho bãi, lập kế hoạch phân phối.
+	5
+	Kế toán quản trị
+	Chi phí: Phân tích TCO (Total Cost of Ownership), chi phí Logistics và hiệu suất SCM.
+	6
+	Thống kê trong kinh doanh
+	Định lượng: Phân tích dữ liệu vận hành, đo lường các KPIs (OTIF, Inventory Turnover).
+	7
+	Kinh tế lượng
+	Mô hình hóa: Xây dựng mô hình dự báo nhu cầu (Demand Forecasting).
+	8
+	Chiến lược quản lý chuỗi cung ứng toàn cầu
+	Tầm nhìn: Phân tích chiến lược (S&OP) và tái cấu trúc chuỗi cung ứng (Network Design).
+	9
+	Quản lý mua hàng toàn cầu
+	Sourcing: Phân tích chi phí mua hàng, quản lý rủi ro nhà cung cấp.
+	10
+	Quản lý chất lượng
+	Cải tiến: Áp dụng phương pháp Six Sigma/Lean Manufacturing để giảm sai sót vận hành.
+	11
+	E-Logistics
+	Công cụ: Phân tích dữ liệu từ hệ thống WMS, TMS, và ERP.
+	12
+	Quản lý vận tải quốc tế
+	Vận tải: Phân tích dữ liệu cước phí, tối ưu hóa tuyến đường vận tải (Routing Optimization).
+	13
+	Quản trị vận hành
+	Process: Phân tích và cải tiến các quy trình nghiệp vụ.
+	14
+	Hệ thống thông tin quản lý
+	
+
+	15
+	Quản trị học
+	
+
+	16
+	Logistics và chuỗi cung ứng quốc tế
+	
+
+	17
+	Quản trị dự án quốc tế
+	Quản lý: Lãnh đạo các dự án cải tiến SCM.
+	18
+	Hợp đồng trong quản lý chuỗi cung ứng
+	
+
+	19
+	Kinh tế vi mô
+	
+
+	20
+	Kinh tế vĩ mô
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Lập trình Python/R cho phân tích dữ liệu
+	Nâng cao: Tự động hóa báo cáo và phân tích.
+	22
+	Phân tích dữ liệu lớn
+	
+
+	23
+	Phân tích và dự báo rủi ro tài chính
+	Rủi ro chuỗi cung ứng: Đánh giá rủi ro thiên tai, chính trị ảnh hưởng đến nguồn cung.
+	24
+	Quản lý rủi ro trong kinh doanh quốc tế
+	
+
+	25
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	
+
+	26
+	Giao nhận và vận tải đa phương thức
+	
+
+	27
+	Thương mại điện tử
+	
+
+	28
+	Phân tích báo cáo tài chính
+	
+
+	29
+	Nghiệp vụ hải quan
+	
+
+	30
+	Thanh toán quốc tế
+	
+
+	1. Investment Analyst (Chuyên viên Phân tích Đầu tư)
+Vị trí này tập trung vào việc đánh giá tính khả thi và tiềm năng sinh lời của các tài sản tài chính (cổ phiếu, trái phiếu, dự án) và quản lý danh mục đầu tư.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Đầu tư tài chính
+	Cốt lõi: Cung cấp phương pháp phân tích kỹ thuật và cơ bản để ra quyết định mua/bán tài sản.
+	2
+	Định giá doanh nghiệp
+	Chuyên sâu: Kỹ thuật định giá (DCF, so sánh) cần thiết để xác định giá trị nội tại của công ty, phục vụ quyết định đầu tư.
+	3
+	Quản trị danh mục đầu tư
+	Quản lý: Xây dựng, tối ưu hóa và quản lý danh mục tài sản theo mục tiêu rủi ro-lợi nhuận.
+	4
+	Kinh tế học tài chính
+	Lý thuyết: Nghiên cứu về mối quan hệ rủi ro/lợi suất, nền tảng cho việc mô hình hóa đầu tư (CAPM, APT).
+	5
+	Phân tích báo cáo tài chính
+	Đánh giá: Đọc, hiểu và phân tích sức khỏe tài chính của các công ty niêm yết/dự án đầu tư.
+	6
+	Tài chính doanh nghiệp
+	Nền tảng: Hiểu về chi phí vốn (WACC) và ra quyết định đầu tư vốn (Capital Budgeting) của doanh nghiệp.
+	7
+	Thị trường chứng khoán
+	Môi trường: Hiểu cơ chế hoạt động, thanh khoản và các quy định của thị trường vốn.
+	8
+	Kinh tế lượng
+	Định lượng: Xây dựng mô hình dự báo các biến số tài chính và thị trường.
+	9
+	Phương pháp lượng cho tài chính
+	Kỹ thuật: Áp dụng mô hình toán học nâng cao và thống kê trong định giá và đo lường rủi ro.
+	10
+	Thống kê cho kinh tế và kinh doanh
+	Nền tảng: Phân tích dữ liệu, kiểm định giả thuyết cho các chiến lược đầu tư.
+	11
+	Lý thuyết tài chính
+	Cơ sở: Các nguyên lý về giá trị thời gian của tiền, rủi ro và lợi nhuận.
+	12
+	Thị trường tài chính và các định chế tài chính
+	Cấu trúc: Hiểu rõ các định chế (ngân hàng, quỹ đầu tư) và cách chúng vận hành.
+	13
+	Tài chính quốc tế
+	Quốc tế: Phân tích đầu tư nước ngoài và quản lý rủi ro tỷ giá.
+	14
+	Thẩm định đầu tư quốc tế
+	Dự án: Đánh giá chuyên sâu tính khả thi và rủi ro của các dự án FDI/PPP.
+	15
+	Kinh tế vi mô
+	Phân tích ngành: Hiểu cấu trúc thị trường và mô hình kinh doanh của công ty mục tiêu.
+	16
+	Kinh tế vĩ mô
+	Môi trường: Đánh giá tác động của chính sách vĩ mô lên thị trường vốn.
+	17
+	Mô hình chuỗi thời gian trong kinh tế và kinh doanh
+	Dự báo: Dùng mô hình nâng cao để dự báo giá tài sản theo thời gian.
+	18
+	Kế toán quản trị
+	Chi phí: Phân tích chi phí và lợi nhuận biên để đánh giá hiệu suất hoạt động.
+	19
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	Tuân thủ: Đảm bảo các quyết định đầu tư tuân thủ đạo đức nghề nghiệp và nguyên tắc quản trị tốt.
+	20
+	Hệ thống thông tin quản lý
+	Dữ liệu: Quản lý và phân tích dữ liệu thị trường từ các hệ thống thông tin.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Lập trình Python/R cho phân tích dữ liệu
+	Công cụ: Tự động hóa quá trình thu thập, làm sạch và phân tích dữ liệu thị trường.
+	22
+	Tài chính phái sinh
+	Công cụ: Hiểu các công cụ phái sinh để quản lý rủi ro danh mục.
+	23
+	Tài chính hành vi
+	Tâm lý: Phân tích hành vi nhà đầu tư ảnh hưởng đến giá cả thị trường.
+	24
+	Phân tích và dự báo rủi ro tài chính
+	Rủi ro: Đo lường và dự báo rủi ro thanh khoản, rủi ro thị trường.
+	25
+	Quản lý dự án quốc tế
+	Kỹ năng: Áp dụng quản lý dự án cho các nghiên cứu/dự án đầu tư lớn.
+	26
+	Công nghệ tài chính và ứng dụng
+	Fintech: Ứng dụng công nghệ mới trong phân tích và giao dịch.
+	27
+	Luật thương mại quốc tế
+	Pháp lý: Các quy định pháp lý quốc tế ảnh hưởng đến giao dịch đầu tư.
+	28
+	Khai phá dữ liệu
+	Insights: Sử dụng thuật toán để tìm ra các mẫu (patterns) ẩn trong dữ liệu tài chính.
+	29
+	Tài trợ dự án
+	Dự án: Cung cấp kiến thức về huy động vốn cho các dự án đầu tư.
+	30
+	Phân tích dữ liệu kinh doanh
+	
+
+	________________
+
+
+2. E-commerce Logistics Manager (Quản lý Logistics Thương mại Điện tử)
+Vị trí này tập trung vào quản lý và tối ưu hóa chuỗi cung ứng đặc thù cho ngành bán lẻ trực tuyến, từ trung tâm hoàn tất đơn hàng (Fulfillment Center) đến giao hàng chặng cuối (Last-mile) và quản lý hàng trả (Reverse Logistics).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản lý kho hàng và phân phối
+	Cốt lõi: Thiết kế quy trình và layout cho các Trung tâm Hoàn tất Đơn hàng (Fulfillment Center) và mạng lưới phân phối.
+	2
+	Quản lý tồn kho
+	Tối ưu: Quản lý tồn kho đa kênh (Omni-channel) và dự báo nhu cầu bùng nổ (Peak Season) của E-commerce.
+	3
+	E-Logistics
+	Công nghệ: Ứng dụng các hệ thống WMS/OMS và công nghệ tự động hóa trong kho E-commerce.
+	4
+	Thương mại điện tử
+	Nghiệp vụ: Hiểu rõ quy trình đặt hàng, thanh toán và các yêu cầu giao hàng đặc thù trên các nền tảng số.
+	5
+	Quản lý vận tải quốc tế
+	Vận chuyển: Quản lý và đánh giá hiệu suất của các đối tác giao hàng chặng cuối (Last-mile Carriers).
+	6
+	Quản trị Logistics và Chuỗi cung ứng
+	Chiến lược: Thiết kế chuỗi cung ứng nhanh, linh hoạt để đáp ứng tốc độ E-commerce.
+	7
+	Quản lý sản xuất và vận hành
+	Vận hành: Tối ưu hóa tốc độ xử lý đơn hàng (Order Fulfillment) và đóng gói (Packaging).
+	8
+	Quản lý chất lượng
+	Dịch vụ: Đảm bảo chất lượng dịch vụ giao hàng và quy trình Xử lý Hàng trả (Reverse Logistics).
+	9
+	Kế toán quản trị
+	Chi phí: Phân tích chi phí vận hành kho, chi phí giao hàng/hoàn trả và tối ưu hóa lợi nhuận biên.
+	10
+	Thống kê trong kinh doanh
+	Đo lường: Phân tích các KPIs Logistics (Tỷ lệ giao hàng đúng hạn - OTIF, Chi phí trên mỗi đơn hàng).
+	11
+	Quản trị phân phối và phát triển kênh bán số
+	Kênh: Phối hợp với đội ngũ Marketing/Sales để đảm bảo Logistics đáp ứng chiến lược kênh bán hàng.
+	12
+	Chiến lược quản lý chuỗi cung ứng toàn cầu
+	Chiến lược: Thiết kế mạng lưới Fulfillment tối ưu cho thị trường E-commerce toàn cầu.
+	13
+	Quản trị vận hành
+	
+
+	14
+	Logistics và chuỗi cung ứng quốc tế
+	
+
+	15
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	
+
+	16
+	Giao nhận và vận tải đa phương thức
+	
+
+	17
+	Quản lý dự án quốc tế
+	Triển khai: Quản lý dự án mở rộng kho bãi, triển khai hệ thống công nghệ.
+	18
+	Quan hệ khách hàng trong kinh doanh
+	Dịch vụ: Quản lý trải nghiệm khách hàng liên quan đến giao hàng, đảm bảo sự hài lòng.
+	19
+	Phân tích dữ liệu Web
+	Dữ liệu: Phân tích hành vi khách hàng trên Website/App ảnh hưởng đến nhu cầu Logistics.
+	20
+	Hợp đồng trong quản lý chuỗi cung ứng
+	Pháp lý: Đàm phán và quản lý hợp đồng với các đối tác 3PL và công ty vận chuyển.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	22
+	Phân tích dữ liệu kinh doanh
+	
+
+	23
+	Kinh tế vi mô
+	
+
+	24
+	Kinh tế vĩ mô
+	
+
+	25
+	Nghiệp vụ hải quan
+	
+
+	26
+	Quản lý mua hàng toàn cầu
+	
+
+	27
+	Nguyên lý Marketing
+	
+
+	28
+	Pháp luật kinh doanh quốc tế
+	
+
+	29
+	Số hóa và chuyển đổi số trong kinh doanh
+	
+
+	30
+	Vận tải biển và hàng không
+	
+
+	________________
+
+
+3. Financial Data Scientist (Chuyên viên Khoa học Dữ liệu Tài chính)
+Vị trí này đòi hỏi kiến thức sâu về tài chính kết hợp với khả năng xây dựng các mô hình học máy (Machine Learning/Deep Learning) và xử lý dữ liệu lớn (Big Data) để giải quyết các vấn đề phức tạp trong ngân hàng, đầu tư, và bảo hiểm (ví dụ: mô hình chấm điểm tín dụng, giao dịch thuật toán, phát hiện gian lận).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Lập trình Python/R cho phân tích dữ liệu
+	Cốt lõi: Nền tảng lập trình cho Machine Learning, xử lý Big Data và xây dựng các mô hình tài chính.
+	2
+	Học sâu và ứng dụng
+	Nâng cao: Xây dựng mô hình AI/Deep Learning cho các bài toán dự báo chuỗi thời gian, phân tích văn bản tài chính.
+	3
+	Mô hình chuỗi thời gian trong kinh tế và kinh doanh
+	Dự báo: Chuyên sâu về mô hình hóa và dự báo các biến tài chính (biến động thị trường, lãi suất).
+	4
+	Kinh tế lượng
+	Mô hình hóa: Xây dựng mô hình hồi quy và phân loại cho chấm điểm tín dụng (Credit Scoring) và dự báo rủi ro.
+	5
+	Phương pháp lượng cho tài chính
+	Toán học: Áp dụng mô hình toán nâng cao (Stochastic Calculus, Mô phỏng Monte Carlo) trong định giá và rủi ro.
+	6
+	Cơ sở dữ liệu
+	Dữ liệu: Quản lý, truy vấn và tích hợp dữ liệu giao dịch khổng lồ (SQL, NoSQL).
+	7
+	Phân tích dữ liệu lớn
+	Big Data: Xử lý và phân tích các tập dữ liệu giao dịch tần suất cao (High-Frequency Trading Data) hoặc dữ liệu phi cấu trúc.
+	8
+	Đầu tư tài chính
+	Domain: Hiểu về tài sản, thị trường để xây dựng mô hình giao dịch thuật toán.
+	9
+	Tài chính doanh nghiệp
+	Domain: Hiểu sâu về cấu trúc vốn, dòng tiền để mô hình hóa rủi ro doanh nghiệp.
+	10
+	Thị trường chứng khoán
+	Domain: Cung cấp bối cảnh thị trường cho các mô hình định giá và dự báo.
+	11
+	Phân tích và dự báo rủi ro tài chính
+	Domain: Xây dựng mô hình dự báo và cảnh báo rủi ro tự động (ví dụ: mô hình VaR).
+	12
+	Mô hình ngẫu nhiên trong Phân tích dữ liệu kinh doanh
+	Kỹ thuật: Áp dụng mô hình xác suất trong định giá quyền chọn và rủi ro.
+	13
+	Phân tích dữ liệu kinh doanh
+	Nền tảng: Quy trình phân tích dữ liệu cơ bản.
+	14
+	Trực quan hóa dữ liệu
+	Truyền đạt: Trực quan hóa kết quả mô hình và báo cáo rủi ro phức tạp.
+	15
+	Công nghệ tài chính và ứng dụng
+	Fintech: Hiểu về ứng dụng của công nghệ trong các lĩnh vực tài chính (RegTech, Blockchain).
+	16
+	Thống kê ứng dụng trong kinh tế và kinh doanh
+	Nền tảng:
+	17
+	Tài chính phái sinh
+	
+
+	18
+	Quản trị danh mục đầu tư
+	
+
+	19
+	Phân tích báo cáo tài chính
+	
+
+	20
+	Hệ thống thông tin quản lý
+	Kiến trúc: Hiểu về kiến trúc dữ liệu và hệ thống IT trong tài chính.
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Kinh tế học tài chính
+	
+
+	22
+	Khai phá dữ liệu
+	
+
+	23
+	Tài chính quốc tế
+	
+
+	24
+	Định giá doanh nghiệp
+	
+
+	25
+	Kinh tế vi mô
+	
+
+	26
+	Kinh tế vĩ mô
+	
+
+	27
+	Quản lý vận tải quốc tế
+	
+
+	28
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	29
+	Quản trị phát triển sản phẩm mới
+	
+
+	30
+	Kế toán quản trị
+	
+
+	
+
+🌐 WORLD 6 — DIPLOMACY, INTERNATIONAL RELATIONS & GLOBAL POLICY
+Áp dụng cho các hướng nghề:
+         * Chuyên viên đối ngoại doanh nghiệp (Corporate External Relations)
+
+         * Chuyên viên hợp tác quốc tế (International Cooperation Officer)
+
+         * Policy Analyst
+
+         * Chuyên viên nghiên cứu thị trường quốc tế
+
+         * Trade Specialist (Chính sách thương mại)
+
+         * Chuyên viên pháp chế quốc tế (International Legal Support)
+
+         * Chuyên viên NGO/Development
+
+
+
+1. Ngoại giao & Quan hệ Đối tác (Corporate External Relations, International Cooperation Officer)
+Nhóm nghề này tập trung vào việc xây dựng mối quan hệ, đàm phán và quản lý dự án hợp tác với các bên liên quan bên ngoài (chính phủ, tổ chức, đối tác).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quan hệ quốc tế
+	Cốt lõi: Nền tảng về chính trị, luật pháp quốc tế và các động thái giữa các chủ thể toàn cầu, thiết yếu cho hoạt động ngoại giao và hợp tác.
+	2
+	Truyền thông trong kinh doanh quốc tế
+	Giao tiếp: Kỹ năng truyền đạt thông điệp, đàm phán, và giao tiếp đa văn hóa để xây dựng hình ảnh đối ngoại cho doanh nghiệp/tổ chức.
+	3
+	Quan hệ công chúng
+	Đối ngoại: Xây dựng và duy trì mối quan hệ tích cực với chính phủ, truyền thông, và các bên liên quan (Stakeholder Management).
+	4
+	Quản trị dự án quốc tế
+	Hợp tác: Kỹ năng lập kế hoạch, điều phối và quản lý các dự án hợp tác (FDI, ODA, viện trợ) xuyên quốc gia.
+	5
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	Uy tín: Hiểu và áp dụng các tiêu chuẩn CSR/ESG để củng cố uy tín và tính hợp pháp trong quan hệ đối ngoại (Corporate Diplomacy).
+	6
+	Quản lý rủi ro trong kinh doanh quốc tế
+	Rủi ro: Đánh giá và quản lý rủi ro chính trị, rủi ro quốc gia trong các thỏa thuận hợp tác và đầu tư.
+	7
+	Luật thương mại quốc tế
+	Pháp lý: Nắm vững khung pháp lý quốc tế để phục vụ đàm phán và ký kết các thỏa thuận thương mại, hợp tác.
+	8
+	Chính sách thương mại quốc tế
+	Chính sách: Hiểu các hiệp định thương mại, rào cản và ưu đãi để tối ưu hóa quan hệ đối ngoại thương mại.
+	9
+	Kinh tế vĩ mô
+	Bối cảnh: Phân tích chính sách kinh tế vĩ mô của các quốc gia đối tác và ảnh hưởng đến quan hệ song phương.
+	10
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Phân tích: Kỹ năng thu thập, phân tích thông tin để xây dựng các hồ sơ và báo cáo đối ngoại.
+	11
+	Tài chính quốc tế
+	Tài chính: Hiểu về dòng vốn, tỷ giá và các công cụ tài chính quốc tế trong các dự án hợp tác.
+	12
+	Thanh toán quốc tế
+	Nghiệp vụ: Kỹ năng xử lý các giao dịch tài chính liên quan đến hợp tác và viện trợ.
+	13
+	Marketing quốc tế
+	Thị trường: Xây dựng chiến lược tiếp cận và phát triển quan hệ với thị trường/đối tác nước ngoài.
+	14
+	Logistics và chuỗi cung ứng quốc tế
+	Vận hành: Cung cấp kiến thức về chuỗi giá trị toàn cầu, nền tảng cho hợp tác kinh tế.
+	15
+	Pháp luật đại cương
+	
+
+	16
+	Kinh tế vi mô
+	
+
+	17
+	Quản trị học
+	
+
+	18
+	Thẩm định đầu tư quốc tế
+	
+
+	19
+	Nghiệp vụ hải quan
+	
+
+	20
+	Quản lý vận tải quốc tế
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Pháp luật kinh doanh quốc tế
+	
+
+	22
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	23
+	Kinh tế lượng
+	
+
+	24
+	Phân tích dữ liệu kinh doanh
+	
+
+	25
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	
+
+	26
+	Sở hữu trí tuệ trong môi trường số
+	
+
+	27
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	28
+	Tài chính doanh nghiệp
+	
+
+	29
+	Kế toán quản trị
+	
+
+	30
+	Nghiên cứu thị trường
+	
+
+	________________
+
+
+2. Phân tích Chính sách & Thương mại (Policy Analyst, Trade Specialist, Chuyên viên nghiên cứu thị trường quốc tế)
+Nhóm này đòi hỏi khả năng phân tích kinh tế định lượng, hiểu sâu về luật thương mại và năng lực đánh giá tác động chính sách.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Chính sách thương mại quốc tế
+	Cốt lõi: Hiểu các lý thuyết, công cụ và cơ chế tạo ra chính sách thương mại (Trade Policy) và tác động của chúng.
+	2
+	Kinh tế vĩ mô
+	Nền tảng: Phân tích các yếu tố vĩ mô ảnh hưởng đến quyết định chính sách và sự vận động của thị trường toàn cầu.
+	3
+	Kinh tế lượng
+	Định lượng: Xây dựng mô hình thống kê để đánh giá tác động của chính sách (Policy Evaluation) và dự báo xu hướng thương mại.
+	4
+	Luật thương mại quốc tế
+	Pháp lý: Nắm vững các quy tắc WTO, Incoterms, và các hiệp định FTA, thiết yếu cho việc xây dựng và tuân thủ chính sách thương mại.
+	5
+	Nghiên cứu thị trường
+	Thị trường: Kỹ năng thu thập, phân tích dữ liệu thị trường quốc tế để xác định cơ hội, rào cản và đối thủ cạnh tranh.
+	6
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Tư duy: Xây dựng khung nghiên cứu khoa học cho các báo cáo chính sách và phân tích thị trường chuyên sâu.
+	7
+	Phân tích dữ liệu kinh doanh
+	Công cụ: Kỹ năng xử lý, trực quan hóa dữ liệu kinh tế/thương mại để hỗ trợ Policy Analyst.
+	8
+	Quản lý rủi ro trong kinh doanh quốc tế
+	Rủi ro: Đánh giá rủi ro chính sách, rủi ro bảo hộ và ổn định thị trường mục tiêu.
+	9
+	Pháp luật kinh doanh quốc tế
+	Pháp lý: Chi tiết hơn về các tranh chấp thương mại và hợp đồng mua bán quốc tế.
+	10
+	Tài chính quốc tế
+	Kinh tế: Phân tích chính sách tỷ giá, cán cân thanh toán và dòng vốn ảnh hưởng đến thương mại.
+	11
+	Nghiệp vụ hải quan
+	Thực tế: Hiểu quy trình thông quan, mã HS, và biểu thuế để đánh giá tác động của chính sách thuế.
+	12
+	Logistics và chuỗi cung ứng quốc tế
+	Vận hành: Phân tích tác động của chính sách lên chuỗi cung ứng và chi phí thương mại.
+	13
+	Kinh tế vi mô
+	Phân tích: Hiểu về cấu trúc ngành, cạnh tranh và hiệu quả của các chính sách điều tiết.
+	14
+	Quan hệ quốc tế
+	Chính trị: Hiểu các yếu tố chính trị ảnh hưởng đến quan hệ thương mại song phương/đa phương.
+	15
+	Mô hình chuỗi thời gian trong kinh tế và kinh doanh
+	Dự báo: Dùng mô hình nâng cao để dự báo giá cả hàng hóa, lạm phát.
+	16
+	Thương mại điện tử
+	Xu hướng: Phân tích các chính sách liên quan đến thương mại số xuyên biên giới.
+	17
+	Thanh toán quốc tế
+	
+
+	18
+	Thẩm định đầu tư quốc tế
+	
+
+	19
+	Quản lý vận tải quốc tế
+	
+
+	20
+	Phân tích báo cáo tài chính
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Marketing quốc tế
+	
+
+	22
+	Hợp đồng trong quản lý chuỗi cung ứng
+	
+
+	23
+	Kỹ thuật nghiệp vụ xuất nhập khẩu
+	
+
+	24
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	25
+	Kế toán quản trị
+	
+
+	26
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	27
+	Truyền thông trong kinh doanh quốc tế
+	
+
+	28
+	Quản trị dự án quốc tế
+	
+
+	29
+	Pháp luật đại cương
+	
+
+	30
+	Quản lý mua hàng toàn cầu
+	
+
+	________________
+
+
+3. Pháp luật & Phát triển (International Legal Support, Chuyên viên NGO/Development)
+Nhóm này yêu cầu kiến thức chuyên sâu về khung pháp lý quốc tế, kinh tế phát triển và kỹ năng quản lý dự án xã hội/phi lợi nhuận.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Pháp luật kinh doanh quốc tế
+	Cốt lõi: Tập trung vào các quy tắc điều chỉnh hoạt động kinh doanh xuyên biên giới, hợp đồng, và giải quyết tranh chấp quốc tế, rất quan trọng cho Legal Support.
+	2
+	Kinh tế phát triển
+	Development Core: Hiểu các vấn đề kinh tế, xã hội, và các mô hình phát triển ở các quốc gia đang phát triển, trọng tâm của NGO/Development.
+	3
+	Quản trị dự án quốc tế
+	Quản lý: Kỹ năng lập kế hoạch, huy động nguồn lực và báo cáo theo chuẩn quốc tế cho các dự án phát triển và viện trợ.
+	4
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	NGO Focus: Đảm bảo tính minh bạch, đạo đức và tác động xã hội trong các hoạt động của NGO.
+	5
+	Luật thương mại quốc tế
+	Pháp lý: Nền tảng về luật điều chỉnh thương mại (rất quan trọng khi NGO/công ty hợp tác thực hiện dự án có yếu tố XNK).
+	6
+	Pháp luật đại cương
+	Nền tảng: Cơ sở hiểu biết về hệ thống luật pháp (Luật công, Luật tư) và quy trình tố tụng.
+	7
+	Hợp đồng trong quản lý chuỗi cung ứng
+	Hợp đồng: Chuyên sâu về soạn thảo và quản lý các hợp đồng Logistics, cung ứng, và hợp tác phát triển.
+	8
+	Quản lý rủi ro trong kinh doanh quốc tế
+	Rủi ro: Đánh giá rủi ro tuân thủ (Compliance) và rủi ro hoạt động trong môi trường pháp lý quốc tế.
+	9
+	Pháp luật tài chính – ngân hàng
+	Chuyên sâu: Các quy định pháp lý chuyên biệt về giao dịch tài chính, huy động vốn, và ngân hàng quốc tế.
+	10
+	Tài chính quốc tế
+	Tài chính: Hiểu về tài chính phát triển, vốn ODA, và các cơ chế tài trợ quốc tế.
+	11
+	Thanh toán quốc tế
+	Nghiệp vụ: Xử lý các giao dịch tài chính liên quan đến viện trợ và dự án quốc tế.
+	12
+	Quan hệ quốc tế
+	Bối cảnh: Hiểu bối cảnh chính trị, xã hội để hoạt động trong môi trường đa quốc gia và các cơ quan ngoại giao.
+	13
+	Truyền thông trong kinh doanh quốc tế
+	Truyền thông: Kỹ năng truyền thông dự án, vận động chính sách (Advocacy) và gây quỹ.
+	14
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Báo cáo: Kỹ năng thu thập, phân tích dữ liệu để viết báo cáo tiến độ và đánh giá dự án (M&E).
+	15
+	Sở hữu trí tuệ trong môi trường số
+	Bảo vệ: Cần thiết cho Chuyên viên Pháp chế khi xử lý vấn đề bản quyền, thương hiệu.
+	16
+	Quản lý vận tải quốc tế
+	Vận hành: Cần thiết cho việc vận chuyển hàng hóa, thiết bị cho các dự án phát triển.
+	17
+	Phân tích báo cáo tài chính
+	Minh bạch: Phân tích báo cáo tài chính của các đối tác, đảm bảo minh bạch tài chính.
+	18
+	Thẩm định đầu tư quốc tế
+	Đánh giá: Đánh giá hiệu quả kinh tế và xã hội của các dự án phát triển.
+	19
+	Kinh tế vĩ mô
+	
+
+	20
+	Nghiệp vụ hải quan
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	22
+	Chính sách thương mại quốc tế
+	
+
+	23
+	Quan hệ công chúng
+	
+
+	24
+	Kế toán quản trị
+	
+
+	25
+	Kinh tế lượng
+	
+
+	26
+	Nghiên cứu thị trường
+	
+
+	27
+	Phân tích dữ liệu kinh doanh
+	
+
+	28
+	Kinh tế vi mô
+	
+
+	29
+	Số hóa và chuyển đổi số trong kinh doanh
+	
+
+	30
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	
+
+1. International Trade Policy Specialist (Chuyên viên Chính sách Thương mại Quốc tế)
+Vị trí này làm việc tại các cơ quan chính phủ (Bộ Công Thương, Bộ Ngoại giao), tổ chức quốc tế (WTO, WB), hoặc các công ty tư vấn lớn, chuyên sâu vào việc phân tích, đàm phán và giám sát các thỏa thuận thương mại, thuế quan và luật pháp quốc tế.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Chính sách thương mại quốc tế
+	Cốt lõi: Hiểu các công cụ và quy tắc (thuế quan, hạn ngạch, các hiệp định) chi phối thương mại toàn cầu.
+	2
+	Pháp luật kinh doanh quốc tế
+	Pháp lý: Nắm vững các quy định pháp luật chi phối hoạt động kinh doanh xuyên biên giới và giải quyết tranh chấp.
+	3
+	Kinh tế vĩ mô
+	Vĩ mô: Phân tích tác động của các chính sách thương mại lên nền kinh tế quốc gia và toàn cầu.
+	4
+	Tài chính quốc tế
+	Tài chính: Hiểu các vấn đề về tỷ giá, cán cân thanh toán và rủi ro tài chính quốc tế.
+	5
+	Quản trị và kinh doanh quốc tế
+	Tổng quát: Hiểu chiến lược gia nhập thị trường, chuỗi giá trị và môi trường kinh doanh toàn cầu.
+	6
+	Quan hệ quốc tế
+	Ngoại giao: Nền tảng về quan hệ chính trị, ngoại giao giữa các quốc gia và khối liên minh.
+	7
+	Truyền thông trong kinh doanh quốc tế
+	Đàm phán: Kỹ năng giao tiếp, thuyết phục và truyền đạt chính sách rõ ràng trong bối cảnh đa văn hóa.
+	8
+	Quản lý rủi ro trong kinh doanh quốc tế
+	Rủi ro: Đánh giá rủi ro chính trị, rủi ro quốc gia và rủi ro tuân thủ (Compliance).
+	9
+	Kinh tế lượng
+	Định lượng: Sử dụng mô hình để đánh giá tác động dự kiến của chính sách thương mại.
+	10
+	Nghiệp vụ hải quan
+	Thực tiễn: Hiểu quy trình thủ tục xuất nhập khẩu và các rào cản phi thuế quan.
+	11
+	Marketing quốc tế
+	
+
+	12
+	Quản trị đa văn hóa
+	
+
+	13
+	Phân tích dữ liệu kinh doanh
+	
+
+	14
+	Logistics và chuỗi cung ứng quốc tế
+	
+
+	15
+	Thanh toán quốc tế
+	
+
+	16
+	Hợp đồng trong quản lý chuỗi cung ứng
+	
+
+	17
+	Phân tích báo cáo tài chính
+	
+
+	18
+	Thương mại điện tử
+	
+
+	19
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	20
+	Quản trị dự án quốc tế
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Định giá doanh nghiệp
+	
+
+	22
+	Thẩm định đầu tư quốc tế
+	
+
+	23
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	24
+	Quản lý mua hàng toàn cầu
+	
+
+	25
+	Quản trị chiến lược
+	
+
+	26
+	Chiến lược M&A và tái cấu trúc doanh nghiệp
+	
+
+	27
+	Kinh tế đầu tư
+	
+
+	28
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	
+
+	29
+	Kế toán quản trị
+	
+
+	30
+	Quản trị tài chính quốc tế
+	
+
+	________________
+
+
+2. Cross-Cultural Business Mediator/Consultant (Chuyên viên Tư vấn/Hòa giải Kinh doanh Đa văn hóa)
+Vị trí này chuyên trách việc hòa giải, đàm phán, và tư vấn cho các công ty đa quốc gia trong các vấn đề liên quan đến sự khác biệt văn hóa, quản lý nhân sự quốc tế, hoặc giải quyết xung đột kinh doanh xuyên biên giới.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản trị đa văn hóa
+	Cốt lõi: Hiểu các mô hình văn hóa (Hofstede, Trompenaars) và áp dụng chúng trong quản lý, đàm phán.
+	2
+	Quan hệ quốc tế
+	Ngoại giao: Nền tảng để hiểu bối cảnh chính trị, xã hội chi phối hành vi kinh doanh quốc tế.
+	3
+	Truyền thông trong kinh doanh quốc tế
+	Giao tiếp: Kỹ năng truyền đạt thông điệp hiệu quả, lắng nghe chủ động và xây dựng sự đồng thuận.
+	4
+	Pháp luật kinh doanh quốc tế
+	Pháp lý: Nắm vững luật hợp đồng, luật lao động quốc tế (quan trọng khi làm việc với nhân sự đa quốc gia).
+	5
+	Quản trị dự án quốc tế
+	Quản lý: Điều phối các dự án có sự tham gia của các bên liên quan từ nhiều quốc gia.
+	6
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	Ethics: Đảm bảo các hoạt động kinh doanh/hòa giải tuân thủ các tiêu chuẩn đạo đức và trách nhiệm xã hội.
+	7
+	Quan hệ công chúng
+	Đối ngoại: Xây dựng hình ảnh và quan hệ tích cực với các bên liên quan quốc tế.
+	8
+	Quản trị và kinh doanh quốc tế
+	
+
+	9
+	Thương hiệu trong kinh doanh quốc tế
+	Thương hiệu: Hiểu cách thương hiệu được xây dựng và nhận diện khác nhau giữa các nền văn hóa.
+	10
+	Nghiên cứu thị trường
+	Insight: Thu thập dữ liệu định tính và định lượng về sự khác biệt văn hóa trong hành vi tiêu dùng/kinh doanh.
+	11
+	Quản trị học
+	
+
+	12
+	Hành vi khách hàng
+	
+
+	13
+	Tài chính quốc tế
+	
+
+	14
+	Phân tích dữ liệu kinh doanh
+	
+
+	15
+	Quản lý rủi ro trong kinh doanh quốc tế
+	
+
+	16
+	Tài chính doanh nghiệp
+	
+
+	17
+	Quản lý thương hiệu và nhượng quyền thương mại
+	
+
+	18
+	Sở hữu trí tuệ trong môi trường số
+	
+
+	19
+	Chiến lược Quản lý Đổi mới và Công nghệ
+	
+
+	20
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Marketing quốc tế
+	
+
+	22
+	Phân tích báo cáo tài chính
+	
+
+	23
+	Kế toán quản trị
+	
+
+	24
+	Thẩm định đầu tư quốc tế
+	
+
+	25
+	Quản trị chiến lược
+	
+
+	26
+	Hệ thống thông tin quản lý
+	
+
+	27
+	Kinh tế lượng
+	
+
+	28
+	Chính sách thương mại quốc tế
+	
+
+	29
+	Thương mại điện tử
+	
+
+	30
+	Khởi nghiệp trong kỷ nguyên số
+	
+
+	________________
+
+
+3. NGO/Development Project Manager (Quản lý Dự án Phát triển/Phi chính phủ)
+Vị trí này chuyên về thiết kế, quản lý và đánh giá các dự án nhằm thúc đẩy phát triển kinh tế, xã hội, môi trường tại các quốc gia đang phát triển, thường làm việc cho các tổ chức phi chính phủ (NGO) hoặc các tổ chức phát triển quốc tế (UNDP, World Bank, ADB).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản trị dự án quốc tế
+	Cốt lõi: Kỹ năng lập kế hoạch, quản lý ngân sách, rủi ro, và các bên liên quan (Stakeholders) cho dự án.
+	2
+	Kinh tế phát triển
+	Domain: Hiểu các lý thuyết, mô hình và chỉ số để đánh giá tác động và nhu cầu phát triển.
+	3
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	Ethics: Đảm bảo dự án có tính bền vững và tác động xã hội tích cực.
+	4
+	Quan hệ quốc tế
+	Đối tác: Làm việc với chính phủ, các nhà tài trợ quốc tế và cộng đồng địa phương.
+	5
+	Thẩm định đầu tư quốc tế
+	Đánh giá: Áp dụng kỹ năng thẩm định dự án (Cost-Benefit Analysis, Financial Feasibility) cho các dự án phát triển.
+	6
+	Phân tích báo cáo tài chính
+	Tài chính: Quản lý và báo cáo tài chính dự án (Fundraising, Grant Management).
+	7
+	Quản lý rủi ro trong kinh doanh quốc tế
+	Rủi ro: Đánh giá rủi ro chính trị, rủi ro xã hội và rủi ro hoạt động tại các vùng nhạy cảm.
+	8
+	Kinh tế lượng
+	M&E (Monitoring & Evaluation): Dùng mô hình thống kê để đo lường và chứng minh hiệu quả can thiệp của dự án.
+	9
+	Truyền thông trong kinh doanh quốc tế
+	Truyền thông: Báo cáo tiến độ và kết quả dự án cho nhà tài trợ và cộng đồng quốc tế.
+	10
+	Quản trị đa văn hóa
+	
+
+	11
+	Kế toán quản trị
+	
+
+	12
+	Phân tích dữ liệu kinh doanh
+	
+
+	13
+	Hệ thống thông tin quản lý
+	
+
+	14
+	Kinh tế vi mô
+	
+
+	15
+	Kinh tế vĩ mô
+	
+
+	16
+	Nghiên cứu thị trường
+	
+
+	17
+	Quan hệ công chúng
+	
+
+	18
+	Số hóa và chuyển đổi số trong kinh doanh
+	
+
+	19
+	Kinh tế thông tin bất cân xứng
+	Phân tích: Hiểu sự thiếu hụt thông tin trong kinh tế phát triển.
+	20
+	Tài chính quốc tế
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	22
+	Quản trị vận hành
+	
+
+	23
+	Chính sách thương mại quốc tế
+	
+
+	24
+	Thương mại điện tử
+	
+
+	25
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	26
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	27
+	Pháp luật kinh doanh quốc tế
+	
+
+	28
+	Quản lý chất lượng
+	
+
+	29
+	Khởi nghiệp trong kỷ nguyên số
+	
+
+	30
+	Quản lý thương hiệu và nhượng quyền thương mại
+	
+
+	
+
+🚀 WORLD 7 — STARTUP & ENTREPRENEURSHIP
+Dành cho các hướng nghề:
+            * Founder / Co-founder
+
+            * Startup Operator (Growth, Ops, BD)
+
+            * Product Owner / Product Manager
+
+            * Innovation Specialist
+
+            * Business Development
+
+            * Venture Analyst / Investment Analyst (Startup)
+
+            * Social Entrepreneur
+
+
+
+1. Khởi nghiệp & Đổi mới Sáng tạo (Founder / Co-founder, Social Entrepreneur, Innovation Specialist)
+Nhóm này tập trung vào kiến thức nền tảng để xây dựng, vận hành và tìm kiếm nguồn vốn cho một doanh nghiệp mới, đặc biệt nhấn mạnh yếu tố Đổi mới và Tác động xã hội.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Khởi nghiệp trong kỷ nguyên số
+	Cốt lõi: Hiểu quy trình xây dựng ý tưởng, mô hình kinh doanh tinh gọn (Lean Startup) và môi trường khởi nghiệp công nghệ.
+	2
+	Quản trị phát triển sản phẩm mới
+	Đổi mới: Áp dụng quy trình phát triển sản phẩm (MVP, Test-Learn) để đưa sản phẩm/dịch vụ mới ra thị trường.
+	3
+	Tài chính doanh nghiệp
+	Vốn: Hiểu các hình thức huy động vốn (Seed, Series A), định giá khởi nghiệp và quản lý dòng tiền.
+	4
+	Marketing chiến lược
+	Thị trường: Xây dựng chiến lược cạnh tranh, định vị thương hiệu và chiến lược thâm nhập thị trường.
+	5
+	Nghiên cứu thị trường
+	Validation: Phân tích nhu cầu thị trường, xác định Pain Points và Market Size.
+	6
+	Định giá doanh nghiệp
+	Đầu tư: Kỹ năng định giá công ty để gọi vốn (cho Founder) hoặc thẩm định (cho Venture Analyst).
+	7
+	Quản trị dự án quốc tế
+	Vận hành: Kỹ năng quản lý thời gian, nguồn lực, và đội nhóm cho các dự án phát triển sản phẩm/kinh doanh.
+	8
+	Pháp luật kinh doanh quốc tế
+	Pháp lý: Nắm vững các vấn đề pháp lý khi thành lập doanh nghiệp, hợp đồng, và sở hữu trí tuệ.
+	9
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	Social Entrepreneur: Cốt lõi để tích hợp yếu tố xã hội/môi trường vào mô hình kinh doanh (Social Impact).
+	10
+	Phân tích báo cáo tài chính
+	Quyết định: Đánh giá hiệu suất tài chính và xác định các chỉ số tài chính quan trọng.
+	11
+	Quản trị học
+	Lãnh đạo: Nền tảng về quản lý tổ chức, xây dựng văn hóa doanh nghiệp.
+	12
+	Kinh tế vi mô
+	Mô hình: Hiểu về cấu trúc ngành, cạnh tranh và chiến lược định giá.
+	13
+	Phân tích dữ liệu kinh doanh
+	Data-driven: Dùng dữ liệu để ra quyết định chiến lược và đánh giá thị trường.
+	14
+	Quan hệ công chúng
+	Truyền thông: Xây dựng thương hiệu cá nhân (Founder) và truyền thông công ty.
+	15
+	Sở hữu trí tuệ trong môi trường số
+	Bảo vệ: Bảo vệ sản phẩm, thương hiệu và công nghệ.
+	16
+	Chiến lược Quản lý Đổi mới và Công nghệ
+	Chuyên sâu: Quản lý danh mục công nghệ và chiến lược đổi mới.
+	17
+	Quản trị đa văn hóa
+	Toàn cầu: Kỹ năng làm việc trong môi trường khởi nghiệp quốc tế (Co-founder, Operator).
+	18
+	Số hóa và chuyển đổi số trong kinh doanh
+	Digital Focus: Ứng dụng công nghệ để mở rộng quy mô kinh doanh.
+	19
+	Marketing số
+	
+
+	20
+	Hệ thống thông tin quản lý
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Pháp luật tài chính – ngân hàng
+	
+
+	22
+	Kinh tế lượng
+	
+
+	23
+	Quản trị rủi ro trong kinh doanh quốc tế
+	
+
+	24
+	Marketing quốc tế
+	
+
+	25
+	Tài chính quốc tế
+	
+
+	26
+	Thương mại điện tử
+	
+
+	27
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	28
+	Quản lý thương hiệu và nhượng quyền thương mại
+	
+
+	29
+	Quan hệ khách hàng trong kinh doanh
+	
+
+	30
+	Thẩm định đầu tư quốc tế
+	
+
+	________________
+
+
+2. Product Manager / Product Owner & Startup Operator (Growth, Ops, BD)
+Nhóm này đòi hỏi sự kết hợp giữa kiến thức quản lý sản phẩm (Product) với kỹ năng vận hành (Operations), phát triển kinh doanh (Business Development) và tăng trưởng (Growth).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản trị phát triển sản phẩm mới
+	Cốt lõi (Product): Kỹ năng xác định nhu cầu, định hướng sản phẩm, quản lý backlog và chu trình sản phẩm.
+	2
+	Phân tích dữ liệu kinh doanh
+	Data-driven: Phân tích dữ liệu người dùng (User Analytics), A/B Testing, đo lường các chỉ số sản phẩm (Metric, KPI).
+	3
+	Quản trị dự án quốc tế
+	Quản lý: Áp dụng phương pháp Agile/Scrum, quản lý team và tiến độ phát triển sản phẩm (Product Owner).
+	4
+	Marketing số
+	Growth: Hiểu về các kênh Digital, Phân tích dữ liệu trong Marketing để thúc đẩy tăng trưởng người dùng (Growth Hacking).
+	5
+	Quản trị vận hành
+	Operations: Tối ưu hóa các quy trình nội bộ, giảm chi phí vận hành (Ops Specialist).
+	6
+	Quan hệ khách hàng trong kinh doanh
+	Customer Insight: Thu thập phản hồi, xây dựng chiến lược duy trì khách hàng (Retention) dựa trên dữ liệu.
+	7
+	Quan hệ công chúng
+	BD/PR: Xây dựng mối quan hệ đối tác chiến lược và truyền thông tích cực.
+	8
+	Kế toán quản trị
+	Financial Ops: Phân tích chi phí hoạt động, lập ngân sách vận hành và ra quyết định tối ưu.
+	9
+	Hệ thống thông tin quản lý
+	Tech Foundation: Hiểu về kiến trúc công nghệ, hệ thống ERP/CRM, cần thiết cho PM làm việc với đội ngũ Engineering.
+	10
+	Lập trình Python/R cho phân tích dữ liệu
+	Kỹ năng: Xử lý và trực quan hóa dữ liệu sản phẩm phức tạp.
+	11
+	Trực quan hóa dữ liệu
+	
+
+	12
+	Kinh tế vi mô
+	
+
+	13
+	Nghiên cứu thị trường
+	
+
+	14
+	Tài chính doanh nghiệp
+	
+
+	15
+	Pháp luật kinh doanh quốc tế
+	
+
+	16
+	Số hóa và chuyển đổi số trong kinh doanh
+	
+
+	17
+	Marketing dịch vụ
+	
+
+	18
+	Thương mại điện tử
+	
+
+	19
+	Hợp đồng trong quản lý chuỗi cung ứng
+	
+
+	20
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quan hệ quốc tế
+	
+
+	22
+	Kinh tế lượng
+	
+
+	23
+	Phân tích dữ liệu Web
+	
+
+	24
+	Quản trị đa văn hóa
+	
+
+	25
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	26
+	Định giá doanh nghiệp
+	
+
+	27
+	Quản lý mua hàng toàn cầu
+	
+
+	28
+	Phân tích báo cáo tài chính
+	
+
+	29
+	Thống kê ứng dụng trong kinh tế và kinh doanh
+	
+
+	30
+	Sáng tạo ý tưởng thiết kế và nội dung số
+	
+
+	________________
+
+
+3. Business Development & Investment Analyst (Startup) (BD, Venture Analyst / Investment Analyst)
+Nhóm này tập trung vào kỹ năng phân tích tài chính/đầu tư, thẩm định doanh nghiệp (Due Diligence), xây dựng mạng lưới đối tác và phát triển kinh doanh mới (Sales/Partnerships).
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Thẩm định đầu tư quốc tế
+	Cốt lõi (Investment): Kỹ năng phân tích tính khả thi, đánh giá rủi ro và lợi nhuận của các dự án/Startup.
+	2
+	Định giá doanh nghiệp
+	Valuation: Kỹ năng định giá các Startup (Venture Analyst) hoặc định giá doanh nghiệp mục tiêu (BD/M&A).
+	3
+	Phân tích báo cáo tài chính
+	Due Diligence: Đánh giá sức khỏe tài chính, khả năng sinh lời và quản lý rủi ro của công ty.
+	4
+	Tài chính doanh nghiệp
+	Nền tảng: Hiểu về cấu trúc vốn, chi phí vốn và các quyết định tài chính.
+	5
+	Kinh tế lượng
+	Dự báo: Dùng mô hình thống kê để dự báo tăng trưởng thị trường, doanh số (Market/Financial Forecasting).
+	6
+	Nghiên cứu thị trường
+	Market Sizing: Phân tích thị trường mục tiêu, xu hướng ngành và đối thủ cạnh tranh.
+	7
+	Quan hệ khách hàng trong kinh doanh
+	Business Development: Xây dựng và duy trì mối quan hệ chiến lược với khách hàng/đối tác (Sales/BD).
+	8
+	Pháp luật kinh doanh quốc tế
+	Legal DD: Hiểu các vấn đề hợp đồng, M&A và tuân thủ pháp lý trong giao dịch.
+	9
+	Quản lý rủi ro trong kinh doanh quốc tế
+	Risk Assessment: Đánh giá rủi ro kinh doanh, rủi ro quốc gia khi mở rộng thị trường.
+	10
+	Thị trường chứng khoán
+	Context: Hiểu về thị trường vốn, IPO (quan trọng cho Venture Analyst).
+	11
+	Marketing quốc tế
+	Mở rộng: Xây dựng chiến lược thâm nhập thị trường nước ngoài (International BD).
+	12
+	Chính sách thương mại quốc tế
+	
+
+	13
+	Quản trị và kinh doanh quốc tế
+	
+
+	14
+	Tài chính quốc tế
+	
+
+	15
+	Khởi nghiệp trong kỷ nguyên số
+	Deal Sourcing: Hiểu cách các Startup hoạt động để tìm kiếm và đánh giá cơ hội đầu tư.
+	16
+	Kinh tế vi mô
+	
+
+	17
+	Phân tích dữ liệu kinh doanh
+	
+
+	18
+	Chiến lược M&A và tái cấu trúc doanh nghiệp
+	Exit Strategy: Chuyên sâu về mua bán sáp nhập và thoái vốn.
+	19
+	Tài trợ dự án
+	Deal Structure: Hiểu cách cấu trúc các thỏa thuận tài chính phức tạp.
+	20
+	Quản trị tài chính quốc tế
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Luật thương mại quốc tế
+	
+
+	22
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	23
+	Quản trị dự án quốc tế
+	
+
+	24
+	Quan hệ công chúng
+	
+
+	25
+	Truyền thông trong kinh doanh quốc tế
+	
+
+	26
+	Quản trị đa văn hóa
+	
+
+	27
+	Marketing số
+	
+
+	28
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	
+
+	29
+	Sở hữu trí tuệ trong môi trường số
+	
+
+	30
+	Quản trị tài chính nâng cao
+	
+
+	
+
+1. Management Consultant / Strategy Analyst (Chuyên viên Tư vấn Quản trị / Phân tích Chiến lược)
+Vị trí này tập trung vào việc phân tích các vấn đề kinh doanh phức tạp, xây dựng chiến lược tăng trưởng, tái cấu trúc, và tối ưu hóa vận hành cho các doanh nghiệp.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Marketing chiến lược
+	Chiến lược: Phân tích cạnh tranh, định vị, và xây dựng lợi thế dài hạn cho doanh nghiệp.
+	2
+	Quản trị chiến lược
+	Cốt lõi: Học về các mô hình xây dựng, triển khai và đánh giá chiến lược cấp công ty (Corporate Strategy).
+	3
+	Phân tích báo cáo tài chính
+	Phân tích: Đánh giá sức khỏe tài chính, hiệu suất hoạt động để đề xuất giải pháp cải tiến.
+	4
+	Quản trị và kinh doanh quốc tế
+	Toàn cầu: Hiểu về môi trường kinh doanh quốc tế, cần thiết cho các dự án mở rộng thị trường.
+	5
+	Quản trị vận hành
+	Tối ưu: Phân tích và cải tiến hiệu suất các quy trình sản xuất, Logistics và dịch vụ (Operational Excellence).
+	6
+	Phân tích dữ liệu kinh doanh
+	Data-driven: Sử dụng dữ liệu để chẩn đoán vấn đề, mô hình hóa kịch bản chiến lược (Scenario Planning).
+	7
+	Phương pháp nghiên cứu trong kinh tế và kinh doanh
+	Tư duy: Xây dựng khung nghiên cứu khoa học để thu thập và phân tích thông tin tư vấn.
+	8
+	Định giá doanh nghiệp
+	Đánh giá: Định giá các đơn vị kinh doanh hoặc các thương vụ M&A trong quá trình tái cấu trúc.
+	9
+	Chiến lược M&A và tái cấu trúc doanh nghiệp
+	Chuyên sâu: Kỹ năng tư vấn cho các thương vụ mua bán sáp nhập và tối ưu hóa cấu trúc tổ chức.
+	10
+	Quản trị dự án quốc tế
+	Triển khai: Quản lý dự án tư vấn và triển khai các giải pháp chiến lược.
+	11
+	Kế toán quản trị
+	Tài chính: Phân tích chi phí, định giá nội bộ và đánh giá hiệu quả đầu tư (ROI).
+	12
+	Tài chính doanh nghiệp
+	
+
+	13
+	Kinh tế vi mô
+	
+
+	14
+	Kinh tế vĩ mô
+	
+
+	15
+	Truyền thông trong kinh doanh quốc tế
+	Giao tiếp: Kỹ năng thuyết trình, giao tiếp với C-level và xây dựng đề xuất tư vấn.
+	16
+	Quản trị đa văn hóa
+	
+
+	17
+	Quản trị tài chính nâng cao
+	
+
+	18
+	Lập trình Python/R cho phân tích dữ liệu
+	
+
+	19
+	Quản lý rủi ro trong kinh doanh quốc tế
+	
+
+	20
+	Hệ thống thông tin quản lý
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	22
+	Nghiên cứu thị trường
+	
+
+	23
+	Thẩm định đầu tư quốc tế
+	
+
+	24
+	Khởi nghiệp trong kỷ nguyên số
+	
+
+	25
+	Quản trị phát triển sản phẩm mới
+	
+
+	26
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	27
+	Chính sách thương mại quốc tế
+	
+
+	28
+	Thương hiệu trong kinh doanh quốc tế
+	
+
+	29
+	Quan hệ công chúng
+	
+
+	30
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	
+
+	________________
+
+
+2. Chief of Staff / Executive Assistant (Chánh Văn phòng / Trợ lý Cấp cao)
+Vị trí này hoạt động như cánh tay phải của CEO/Founder, đòi hỏi sự hiểu biết sâu rộng về mọi khía cạnh của công ty (Quản trị, Tài chính, Vận hành), kỹ năng quản lý dự án chiến lược và giao tiếp C-level.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản trị học
+	Nền tảng: Hiểu về cấu trúc tổ chức, chức năng quản lý, và các nguyên tắc lãnh đạo.
+	2
+	Quản trị chiến lược
+	Chiến lược: Hỗ trợ CEO trong việc xây dựng, truyền đạt và giám sát việc thực hiện chiến lược công ty.
+	3
+	Quản trị dự án quốc tế
+	Triển khai: Quản lý các dự án đặc biệt, ưu tiên của CEO (OKR/KPI).
+	4
+	Phân tích báo cáo tài chính
+	Tài chính: Tổng hợp và phân tích báo cáo, đưa ra đánh giá nhanh về hiệu suất tài chính cho Ban Lãnh đạo.
+	5
+	Truyền thông trong kinh doanh quốc tế
+	Giao tiếp: Soạn thảo tài liệu nội bộ, thư từ, và các bài thuyết trình cấp cao.
+	6
+	Quan hệ công chúng
+	Đối ngoại: Quản lý quan hệ với các bên liên quan (Stakeholders) và truyền thông khủng hoảng.
+	7
+	Pháp luật kinh doanh quốc tế
+	Pháp lý: Đảm bảo các quyết định và văn bản của CEO tuân thủ quy định pháp luật.
+	8
+	Định giá doanh nghiệp
+	M&A/Huy động vốn: Hỗ trợ Founder/CEO trong các giao dịch đầu tư và định giá.
+	9
+	Tài chính doanh nghiệp
+	
+
+	10
+	Quản trị đa văn hóa
+	Lãnh đạo: Cần thiết khi công ty có đội ngũ hoặc hoạt động quốc tế.
+	11
+	Quản trị vận hành
+	
+
+	12
+	Hệ thống thông tin quản lý
+	
+
+	13
+	Phân tích dữ liệu kinh doanh
+	
+
+	14
+	Kinh tế vĩ mô
+	
+
+	15
+	Khởi nghiệp trong kỷ nguyên số
+	
+
+	16
+	Chiến lược Quản lý Đổi mới và Công nghệ
+	
+
+	17
+	Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+	
+
+	18
+	Thẩm định đầu tư quốc tế
+	
+
+	19
+	Quản lý rủi ro trong kinh doanh quốc tế
+	
+
+	20
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Quản trị tài chính quốc tế
+	
+
+	22
+	Marketing quốc tế
+	
+
+	23
+	Quản lý thương hiệu và nhượng quyền thương mại
+	
+
+	24
+	Pháp luật tài chính – ngân hàng
+	
+
+	25
+	Thị trường chứng khoán
+	
+
+	26
+	Nghiên cứu thị trường
+	
+
+	27
+	Quản trị phát triển sản phẩm mới
+	
+
+	28
+	Logistics và chuỗi cung ứng quốc tế
+	
+
+	29
+	Sở hữu trí tuệ trong môi trường số
+	
+
+	30
+	Kế toán quản trị
+	
+
+	________________
+
+
+3. General Manager / Country Manager (Quản lý Tổng quát / Giám đốc Quốc gia)
+Vị trí này chịu trách nhiệm điều hành toàn bộ hoạt động của một đơn vị kinh doanh hoặc chi nhánh tại một quốc gia, đòi hỏi sự cân bằng giữa kiến thức chiến lược, tài chính, vận hành, và quản lý con người.
+STT
+	Tên học phần
+	Lý do lựa chọn
+	A. Core (20 Học phần Bắt buộc)
+	
+
+	
+
+	1
+	Quản trị học
+	Quản lý: Nền tảng về quản lý con người, tổ chức và ra quyết định.
+	2
+	Quản trị chiến lược
+	Chiến lược: Xây dựng và thực thi chiến lược phù hợp với thị trường và mục tiêu toàn cầu của công ty.
+	3
+	Quản trị và kinh doanh quốc tế
+	Mở rộng: Hiểu các rào cản, cơ hội và rủi ro khi vận hành tại một quốc gia khác.
+	4
+	Tài chính doanh nghiệp
+	Tài chính: Quản lý ngân sách (P&L), phân bổ vốn, và tối ưu hóa lợi nhuận.
+	5
+	Phân tích báo cáo tài chính
+	Giám sát: Đánh giá hiệu suất tài chính của đơn vị mình phụ trách.
+	6
+	Quản trị vận hành
+	Vận hành: Đảm bảo hiệu suất và hiệu quả của các quy trình cốt lõi tại chi nhánh.
+	7
+	Kế toán quản trị
+	Cost Management: Phân tích chi phí để đưa ra quyết định giá và vận hành.
+	8
+	Marketing chiến lược
+	Thị trường: Xây dựng chiến lược Marketing và Bán hàng địa phương hóa.
+	9
+	Pháp luật kinh doanh quốc tế
+	Tuân thủ: Đảm bảo mọi hoạt động kinh doanh tuân thủ luật pháp địa phương và quốc tế.
+	10
+	Quản trị đa văn hóa
+	Lãnh đạo: Quản lý đội ngũ đa quốc gia và đàm phán với đối tác nước ngoài.
+	11
+	Quản trị dự án quốc tế
+	
+
+	12
+	Quản lý rủi ro trong kinh doanh quốc tế
+	
+
+	13
+	Hệ thống thông tin quản lý
+	
+
+	14
+	Quản trị Logistics và Chuỗi cung ứng
+	
+
+	15
+	Quan hệ công chúng
+	
+
+	16
+	Nghiên cứu thị trường
+	
+
+	17
+	Tài chính quốc tế
+	
+
+	18
+	Chiến lược M&A và tái cấu trúc doanh nghiệp
+	
+
+	19
+	Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+	
+
+	20
+	Số hóa và chuyển đổi số trong kinh doanh
+	
+
+	B. Elective (10 Học phần Tự chọn)
+	
+
+	
+
+	21
+	Thẩm định đầu tư quốc tế
+	
+
+	22
+	Định giá doanh nghiệp
+	
+
+	23
+	Phân tích dữ liệu kinh doanh
+	
+
+	24
+	Marketing quốc tế
+	
+
+	25
+	Khởi nghiệp trong kỷ nguyên số
+	
+
+	26
+	Quản trị tài chính nâng cao
+	
+
+	27
+	Kinh tế lượng
+	
+
+	28
+	Sở hữu trí tuệ trong môi trường số
+	
+
+	29
+	Chính sách thương mại quốc tế
+	
+
+	30
+	Đầu tư tài chính

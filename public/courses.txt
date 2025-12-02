@@ -1,0 +1,105 @@
+1. Chuyên viên Xuất nhập khẩu (Import/Export Specialist)
+STT
+	Tên môn học
+	Lý do lựa chọn
+	A. Core (20 HP)
+	
+
+	
+
+	1
+	Giao dịch thương mại quốc tế (TMA302)
+	Hiểu quy trình, các bước thực hiện một giao dịch XNK, Incoterms để xác định trách nhiệm.
+	2
+	Thanh toán quốc tế (TCH412)
+	Xử lý các phương thức thanh toán L/C, T/T, D/P, đảm bảo an toàn tài chính.
+	3
+	Logistics và vận tải quốc tế (TMA336)
+	Lựa chọn phương thức, tuyến vận tải tối ưu, lập chứng từ vận tải.
+	4
+	Thuế quốc tế (TMA330)
+	Tính toán, kê khai các loại thuế (NK, XK, GTGT) chính xác.
+	5
+	Pháp luật thương mại quốc tế (PLU422)
+	Nắm vững khung pháp lý để xử lý hợp đồng, tranh chấp.
+	6
+	Chính sách thương mại quốc tế (TMA301)
+	Nắm vững luật chơi, các rào cản và ưu đãi thuế quan khi XNK.
+	7
+	Nghiệp vụ hải quan (TMA310)
+	Nền tảng về thủ tục thông quan, khai báo hải quan.
+	8
+	Bảo hiểm trong kinh doanh (TMA402)
+	Lựa chọn loại bảo hiểm phù hợp cho hàng hóa XNK.
+	9
+	Quan hệ kinh tế quốc tế
+	Hiểu bối cảnh chính trị - kinh tế tác động đến quyết định XNK.
+	10
+	Lý thuyết tài chính
+	Đánh giá rủi ro tài chính, quản lý dòng tiền trong giao dịch XNK.
+	11
+	Nguyên lý kế toán (KET201)
+	Hạch toán, theo dõi chi phí, giá vốn hàng XNK.
+	12
+	Đàm phán thương mại quốc tế (TMA404)
+	Đàm phán thành công các điều khoản trong hợp đồng mua bán quốc tế.
+	13
+	Marketing quốc tế (MKT401)
+	Nghiên cứu thị trường và tìm kiếm đối tác, nhà cung cấp quốc tế.
+	14
+	Sở hữu trí tuệ (TMA408)
+	Tránh vi phạm SHTT khi nhập khẩu hoặc đăng ký SHTT khi xuất khẩu.
+	15
+	Nguyên lý quản lý kinh tế
+	Quản lý, điều phối các hoạt động kinh doanh XNK.
+	16
+	Cơ sở dữ liệu (TIN313)
+	Quản lý dữ liệu, chứng từ XNK khổng lồ.
+	17
+	Thương hiệu trong kinh doanh quốc tế
+	Hiểu về nhãn hiệu, mã HS, nguồn gốc sản phẩm XNK.
+	18
+	Thương mại kỹ thuật số (TMA333)
+	Thực hiện XNK trên các nền tảng thương mại điện tử (e-commerce).
+	19
+	Quản lý năng suất và chất lượng
+	Đảm bảo chất lượng hàng hóa XNK đáp ứng tiêu chuẩn quốc tế.
+	20
+	Thương mại dịch vụ
+	Cần thiết khi công ty giao dịch các loại dịch vụ xuyên biên giới.
+	B. Elective (10 HP)
+	
+
+	
+
+	21
+	Xúc tiến thương mại, du lịch, đầu tư QT
+	Tìm kiếm thị trường và khách hàng nước ngoài.
+	22
+	Văn hóa trong kinh doanh
+	Hiểu đối tác để giao tiếp và đàm phán XNK hiệu quả hơn.
+	23
+	Chiến lược kinh doanh của DNTM
+	Đặt các mục tiêu và kế hoạch dài hạn cho hoạt động XNK của công ty.
+	24
+	Sáng tạo kinh doanh
+	Tìm kiếm các mô hình XNK mới, hiệu quả hơn.
+	25
+	Kinh tế học về nền tảng kinh doanh
+	Hiểu cách các nền tảng số hóa (Platform) thay đổi XNK.
+	26
+	Lập trình cho phân tích dữ liệu
+	Phân tích xu hướng thị trường, tối ưu hóa lợi nhuận XNK.
+	27
+	Đổi mới sáng tạo
+	
+
+	28
+	Quản trị học
+	Kỹ năng lập kế hoạch và tổ chức công việc XNK.
+	29
+	Logic học và phương pháp NCKH
+	Tư duy hệ thống và giải quyết vấn đề trong XNK.
+	30
+	Kinh tế vĩ mô
+	Phân tích tác động của chính sách kinh tế đến XNK.
